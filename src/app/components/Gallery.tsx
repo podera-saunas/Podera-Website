@@ -1,3 +1,4 @@
+import exteriorGallery1 from '../../imports/exterior-gallery-1.jpg.jpeg';
 import { motion, AnimatePresence } from 'motion/react';
 import { useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
@@ -14,11 +15,11 @@ interface Photo {
 const photos: Photo[] = [
   // Exterior
   {
-    src: 'https://images.unsplash.com/photo-1764942394410-5b3f027b459b?w=1200&h=800&fit=crop&auto=format',
-    alt: 'PODERA luxury sauna pod illuminated at dusk',
-    category: 'exterior',
-    span: 'wide',
-  },
+  src: exteriorGallery1,
+  alt: 'PODERA exterior',
+  category: 'exterior',
+  span: 'wide',
+},
   {
     src: 'https://images.unsplash.com/photo-1655194911126-6032bdcccc9d?w=800&h=1200&fit=crop&auto=format',
     alt: 'PODERA cedar sauna with black door',
