@@ -101,7 +101,7 @@ const details = {
     heaterTitle: 'The Heart of the Sauna',
     heaterBody: [
       'Every PODERA sauna is equipped with a premium Finnish heater, delivering fast heat-up times, consistent temperatures, and an authentic sauna experience. Carefully matched to each model, the heater ensures efficient performance, reliable operation, and years of everyday use.',
-      'Heat-up time: 30–45 minutes. Operating temperature: 60°C–95°C. The stainless steel stone tray holds 30–50 kg of volcanic sauna stones for authentic löyly steam. Compatible with smart home integration and timer controls.',
+      'Heat-up time: approximately 30–45 minutes. Operating temperatures range from 60°C to 95°C, allowing for both gentle relaxation and traditional high-heat sauna sessions. Premium sauna stones create soft, comfortable steam for an authentic Finnish sauna experience.',
     ],
     insulTitle: 'Industrial-Grade Insulation',
     insulBody: [
@@ -149,7 +149,7 @@ const details = {
     heaterTitle: 'หัวใจของเซาน่า',
     heaterBody: [
       'ซาวน่า PODERA ทุกหลังติดตั้งฮีตเตอร์คุณภาพสูงจากฟินแลนด์ ให้ความร้อนรวดเร็ว ควบคุมอุณหภูมิได้อย่างสม่ำเสมอ และมอบประสบการณ์ซาวน่าแบบดั้งเดิมอย่างแท้จริง ฮีตเตอร์แต่ละรุ่นได้รับการคัดเลือกให้เหมาะสมกับขนาดของซาวน่า เพื่อประสิทธิภาพสูงสุด ความน่าเชื่อถือในการใช้งาน และอายุการใช้งานที่ยาวนาน',
-      'เวลาอุ่น: 30–45 นาที อุณหภูมิการทำงาน: 60°C–95°C ถาดหินสแตนเลสบรรจุหิน 30–50 กก. สำหรับไอน้ำลอยลี่แท้ๆ รองรับการผสานระบบสมาร์ทโฮมและตัวควบคุมตัวตั้งเวลา',
+      'เวลาอุ่น: ประมาณ 30–45 นาที โดยสามารถปรับอุณหภูมิได้ตั้งแต่ 60°C ถึง 95°C เพื่อรองรับทั้งการผ่อนคลายแบบสบาย ๆ และประสบการณ์ซาวน่าอุณหภูมิสูงแบบดั้งเดิม หินซาวน่าคุณภาพสูงช่วยสร้างไอน้ำที่นุ่มสบาย มอบประสบการณ์ซาวน่าสไตล์ฟินแลนด์อย่างแท้จริง',
     ],
     insulTitle: 'ฉนวนระดับอุตสาหกรรม',
     insulBody: [
