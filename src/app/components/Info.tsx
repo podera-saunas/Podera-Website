@@ -124,20 +124,20 @@ const details = {
         a: 'Yes. All PODERA units are designed and built for outdoor use in tropical climates. The cedar exterior naturally weathers to a beautiful silver-grey patina, and all joints are sealed against rain and humidity. We recommend placing the unit in a shaded or covered area for optimal longevity.',
       },
       {
-        q: 'How much does it cost to operate?',
-        a: 'A typical 3×4 session of 60–90 minutes uses approximately 9–12 kWh of electricity at an estimated cost of 36–48 THB per session (at standard Thai electricity rates). The insulation efficiency means heat is retained and energy is used only to maintain temperature once the target is reached.',
+        q: 'Can I view a completed PODERA sauna before ordering?',
+        a: 'Yes. We currently have a completed PODERA sauna available for viewing by appointment in Thailand. Contact us to arrange a visit.',
       },
       {
         q: 'Is the unit movable after installation?',
         a: 'Yes — this is a core feature of PODERA. The unit is delivered fully assembled and can be relocated using a crane or forklift. No permanent foundation work is required. Many clients move their units seasonally or when relocating properties.',
       },
       {
-        q: 'Can I customise the interior or exterior finish?',
-        a: 'Yes. We offer several wood combinations and exterior paint or stain options. For bespoke requests, contact us to discuss a custom specification. Lead times for custom orders may be extended.',
+        q: 'Does the PODERA 3×6 include a steam room?',
+        a: 'Yes! The PODERA 3×6 model includes a separate steam room in addition to the sauna area, creating a complete wellness experience within a single unit.',
       },
       {
-        q: 'Do you provide installation and after-sales service?',
-        a: 'Our team handles complete installation, electrical connection, and a thorough operational handover. We also offer annual maintenance packages including inspection, re-caulking, stone replacement, and heater service.',
+        q: 'How long does production take?',
+        a: 'Production typically starts from 4 weeks, depending on the current order schedule and selected model.',
       },
       {
         q: 'What electrical connection is required?',
@@ -172,20 +172,20 @@ const details = {
         a: 'ได้ หน่วย PODERA ทั้งหมดออกแบบและสร้างเพื่อการใช้งานกลางแจ้งในภูมิอากาศเขตร้อน ไม้ซีดาร์ภายนอกจะเปลี่ยนเป็นสีเงินอย่างสวยงามตามธรรมชาติ และรอยต่อทั้งหมดถูกซีลป้องกันฝนและความชื้น',
       },
       {
-        q: 'ค่าใช้จ่ายในการดำเนินงานเท่าไร?',
-        a: 'เซสชันทั่วไป 60–90 นาที ของ 3×4 ใช้ไฟฟ้าประมาณ 9–12 kWh ด้วยต้นทุนประมาณ 36–48 บาทต่อเซสชัน (ตามอัตราไฟฟ้ามาตรฐานของไทย)',
+        q: 'สามารถเข้าชมซาวน่าจริงก่อนสั่งซื้อได้หรือไม่?',
+        a: 'ได้ ปัจจุบันเรามีซาวน่า PODERA ที่สร้างเสร็จแล้วสำหรับเข้าชม โดยนัดหมายล่วงหน้า กรุณาติดต่อเราเพื่อจัดเวลานัดหมาย',
       },
       {
         q: 'สามารถเคลื่อนย้ายหน่วยหลังการติดตั้งได้หรือไม่?',
         a: 'ได้ — นี่คือคุณสมบัติหลักของ PODERA หน่วยจัดส่งแบบประกอบสมบูรณ์และสามารถย้ายตำแหน่งได้โดยใช้เครน ไม่ต้องทำงานฐานรากถาวร',
       },
       {
-        q: 'สามารถปรับแต่งการตกแต่งภายในหรือภายนอกได้หรือไม่?',
-        a: 'ได้ เรามีตัวเลือกการผสมไม้หลายแบบและตัวเลือกสีหรือสีย้อมภายนอก สำหรับคำขอพิเศษ ติดต่อเราเพื่อหารือเกี่ยวกับข้อกำหนดที่กำหนดเอง',
+        q: 'รุ่น PODERA 3×6 มีห้องสตีมหรือไม่?',
+        a: 'มี รุ่น PODERA 3×6 มาพร้อมห้องสตีมแยกต่างหากจากพื้นที่ซาวน่า เพื่อมอบประสบการณ์การพักผ่อนที่สมบูรณ์ยิ่งขึ้น',
       },
       {
-        q: 'คุณให้บริการติดตั้งและบริการหลังการขายหรือไม่?',
-        a: 'ทีมงานของเราดูแลการติดตั้งทั้งหมด การต่อไฟฟ้า และการส่งมอบการดำเนินงานอย่างละเอียด เรายังมีแพ็คเกจบำรุงรักษาประจำปี',
+        q: 'ใช้เวลาผลิตนานเท่าไร?',
+        a: 'ระยะเวลาการผลิตเริ่มต้นประมาณ 4 สัปดาห์ ทั้งนี้ขึ้นอยู่กับคิวการผลิตและรุ่นที่เลือก',
       },
       {
         q: 'ต้องการการเชื่อมต่อไฟฟ้าอย่างไร?',
