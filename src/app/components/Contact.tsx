@@ -271,7 +271,7 @@ export function Contact() {
 
                 {/* LINE */}
                 <a
-                  href="https://line.me/ti/p/~+66640579410"
+                  href="https://line.me/ti/p/cN0NBS6Ton"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-5 border border-[#e5e5e5] hover:border-[#0a0a0a] transition-colors duration-300 group"
