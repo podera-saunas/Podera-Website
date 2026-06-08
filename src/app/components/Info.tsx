@@ -26,7 +26,7 @@ const models = {
     },
     {
       name: 'PODERA 3×6',
-      tagline: 'Social. Suana + A seperate steam room.',
+      tagline: 'Social. Sauna + A seperate steam room.',
       specs: [
         { label: 'Capacity', value: '4–8 persons' },
         { label: 'Interior', value: '3 m × 6 m' },
