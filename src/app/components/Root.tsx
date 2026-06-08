@@ -148,7 +148,7 @@ export function Root() {
             </div>
           </div>
           <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
-            <p className="text-[10px] tracking-widest text-white/25 uppercase">© 2024 PODERA. All rights reserved.</p>
+            <p className="text-[10px] tracking-widest text-white/25 uppercase">© PODERA. ALL RIGHTS RESERVED.</p>
             <p className="text-[10px] tracking-widest text-white/25 uppercase">Thailand</p>
           </div>
         </div>
