@@ -16,7 +16,7 @@ const models = {
       name: 'PODERA 3×4',
       tagline: 'Intimate. Perfect for personal use.',
       specs: [
-        { label: 'Capacity', value: '2–4 persons' },
+        { label: 'Capacity', value: '4-8 persons' },
         { label: 'Interior', value: '3 m × 4 m' },
         { label: 'Exterior', value: '3.2 m × 4.2 m' },
         { label: 'Height', value: '2.2 m interior' },
@@ -42,7 +42,7 @@ const models = {
       name: 'PODERA 3×4',
       tagline: 'สำหรับการใช้งานส่วนตัว',
       specs: [
-        { label: 'ความจุ', value: '2–4 คน' },
+        { label: 'ความจุ', value: '4-8 คน' },
         { label: 'ภายใน', value: '3 ม. × 4 ม.' },
         { label: 'ภายนอก', value: '3.2 ม. × 4.2 ม.' },
         { label: 'ความสูง', value: '2.2 ม. ภายใน' },
