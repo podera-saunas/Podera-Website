@@ -69,29 +69,29 @@ const materials = {
   en: [
     {
       name: 'Canadian Cedar',
-      desc: 'Our primary structural and bench wood. Canadian Western Red Cedar is prized for its natural oils that resist moisture, decay, and insects — ideal for humid sauna environments. Its aromatic fragrance deepens the wellness experience. Dimensionally stable and lightweight, it is the gold standard of sauna construction.',
+      desc: 'Naturally durable and highly resistant to moisture, making it ideal for sauna construction. Its rich aroma and beautiful grain create a warm, luxurious atmosphere while providing excellent longevity in humid environments.',
     },
     {
       name: 'Thermo Abachi',
-      desc: 'Heat-treated Abachi wood used for interior cladding and upper benches. The thermal modification process removes sugars and resins, resulting in a wood that is completely splinter-free and stays cool to the touch even at high temperatures. Its pale honey tone creates a serene, Nordic atmosphere.',
+      desc: 'Heat-treated for exceptional stability and comfort. Thermo Abachi remains cool to the touch even at high sauna temperatures, making it perfect for interior walls and upper benches while creating a clean, modern appearance.',
     },
     {
       name: 'Abachi',
-      desc: 'Natural Abachi is used for backrests and handles. Lightweight and smooth, it has very low thermal conductivity — ensuring surfaces remain comfortable even when the sauna reaches 90°C. Its fine grain and pale colour complement the Thermo Abachi perfectly.',
+      desc: 'Lightweight, smooth, and exceptionally comfortable in use. Thanks to its low heat conductivity, Abachi remains pleasant to touch even during long sauna sessions, making it the ideal material for backrests, handles, and seating details.',
     },
   ],
   th: [
     {
       name: 'ซีดาร์แคนาดา',
-      desc: 'ไม้หลักสำหรับโครงสร้างและม้านั่ง ซีดาร์แดงตะวันตกแคนาดาเป็นที่ยกย่องในด้านน้ำมันธรรมชาติที่ต้านทานความชื้น การผุกร่อน และแมลง เหมาะอย่างยิ่งสำหรับสภาพแวดล้อมเซาน่าที่ชื้นและร้อน กลิ่นหอมอันเป็นเอกลักษณ์ช่วยเพิ่มประสบการณ์ด้านสุขภาพ',
+      desc: 'ไม้ซีดาร์แคนาดามีความทนทานตามธรรมชาติและทนต่อความชื้นได้ดีเยี่ยม จึงเหมาะสำหรับการสร้างซาวน่า กลิ่นหอมอันเป็นเอกลักษณ์และลวดลายไม้ที่สวยงามช่วยสร้างบรรยากาศอบอุ่นและหรูหรา พร้อมอายุการใช้งานที่ยาวนานแม้ในสภาพแวดล้อมที่มีความชื้นสูง',
     },
     {
       name: 'เทอร์โม อาบาชิ',
-      desc: 'ไม้อาบาชิที่ผ่านการบำบัดด้วยความร้อนสำหรับบุผนังภายในและม้านั่งด้านบน กระบวนการดัดแปลงทางความร้อนจะกำจัดน้ำตาลและเรซิน ทำให้ไม้ปราศจากเสี้ยนและเย็นสัมผัสแม้ในอุณหภูมิสูง',
+      desc: 'ผ่านกระบวนการอบความร้อนเพื่อเพิ่มความคงทนและความเสถียรของเนื้อไม้ Thermo Abachi ยังคงสัมผัสสบายแม้ในอุณหภูมิซาวน่าสูง จึงเหมาะสำหรับผนังภายในและม้านั่งระดับบน พร้อมมอบรูปลักษณ์ที่สะอาด เรียบหรู และทันสมัย',
     },
     {
       name: 'อาบาชิ',
-      desc: 'อาบาชิธรรมชาติใช้สำหรับพนักพิงและที่จับ มีน้ำหนักเบาและเรียบลื่น มีค่าการนำความร้อนต่ำมาก ทำให้พื้นผิวสบายแม้ในอุณหภูมิ 90°C',
+      desc: 'มีน้ำหนักเบา ผิวสัมผัสเรียบเนียน และให้ความสบายเป็นพิเศษ ด้วยคุณสมบัติการนำความร้อนต่ำ Abachi จึงยังคงสัมผัสสบายแม้ใช้งานซาวน่าเป็นเวลานาน เหมาะอย่างยิ่งสำหรับพนักพิง มือจับ และส่วนประกอบที่ต้องสัมผัสโดยตรง',
     },
   ],
 };
@@ -100,7 +100,7 @@ const details = {
   en: {
     heaterTitle: 'The Heart of the Sauna',
     heaterBody: [
-      'PODERA units are fitted with premium Finnish electric sauna heaters, widely regarded as the most reliable and effective in the world. The heater is sized precisely to the room volume — ensuring optimal heat-up time and consistent temperature throughout.',
+      'Every PODERA sauna is equipped with a premium Finnish heater, delivering fast heat-up times, consistent temperatures, and an authentic sauna experience. Carefully matched to each model, the heater ensures efficient performance, reliable operation, and years of everyday use.',
       'Heat-up time: 30–45 minutes. Operating temperature: 60°C–95°C. The stainless steel stone tray holds 30–50 kg of volcanic sauna stones for authentic löyly steam. Compatible with smart home integration and timer controls.',
     ],
     insulTitle: 'Industrial-Grade Insulation',
@@ -148,7 +148,7 @@ const details = {
   th: {
     heaterTitle: 'หัวใจของเซาน่า',
     heaterBody: [
-      'หน่วย PODERA ติดตั้งเครื่องทำความร้อนเซาน่าไฟฟ้าฟินแลนด์พรีเมียม ซึ่งเป็นที่ยอมรับกันอย่างกว้างขวางว่าเชื่อถือได้และมีประสิทธิภาพสูงสุดในโลก เครื่องทำความร้อนถูกกำหนดขนาดให้พอดีกับปริมาตรห้อง เพื่อให้มั่นใจในเวลาอุ่นที่เหมาะสมและอุณหภูมิที่สม่ำเสมอ',
+      'ซาวน่า PODERA ทุกหลังติดตั้งฮีตเตอร์คุณภาพสูงจากฟินแลนด์ ให้ความร้อนรวดเร็ว ควบคุมอุณหภูมิได้อย่างสม่ำเสมอ และมอบประสบการณ์ซาวน่าแบบดั้งเดิมอย่างแท้จริง ฮีตเตอร์แต่ละรุ่นได้รับการคัดเลือกให้เหมาะสมกับขนาดของซาวน่า เพื่อประสิทธิภาพสูงสุด ความน่าเชื่อถือในการใช้งาน และอายุการใช้งานที่ยาวนาน',
       'เวลาอุ่น: 30–45 นาที อุณหภูมิการทำงาน: 60°C–95°C ถาดหินสแตนเลสบรรจุหิน 30–50 กก. สำหรับไอน้ำลอยลี่แท้ๆ รองรับการผสานระบบสมาร์ทโฮมและตัวควบคุมตัวตั้งเวลา',
     ],
     insulTitle: 'ฉนวนระดับอุตสาหกรรม',
