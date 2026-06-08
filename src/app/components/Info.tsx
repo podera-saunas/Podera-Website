@@ -116,7 +116,7 @@ const details = {
     siteTitle: 'Site Preparation',
     siteBody: 'A stable and level surface is required before installation. Depending on the site, this may be a concrete foundation, support piers, or a structural decking system suitable for the saunas weight. Electrical requirements vary by model. Full technical specifications and preparation guidelines are provided prior to delivery.',
     warrantyTitle: 'Warranty',
-    warrantyBody: 'PODERA offers a 3-year structural warranty covering the frame, cladding, and all wooden components. The heater carries the manufacturer\'s warranty (typically 2 years). Seals, glass, and accessories are covered for 1 year. We provide annual maintenance visit packages to keep your unit in perfect condition.',
+    warrantyBody: 'Every PODERA sauna is built using premium materials and designed for years of reliable use. Warranty coverage is provided for the structural construction, while equipment such as heaters is covered by the manufacturers warranty. Full warranty terms are provided with every quotation and purchase agreement.',
     faqTitle: 'Frequently Asked Questions',
     faqs: [
       {
@@ -164,7 +164,7 @@ const details = {
     siteTitle: 'การเตรียมพื้นที่',
     siteBody: 'ก่อนการติดตั้ง จำเป็นต้องมีพื้นที่รองรับที่มั่นคงและได้ระดับ ซึ่งอาจเป็นฐานคอนกรีต เสารองรับ หรือโครงสร้างพื้นประเภทอื่นที่สามารถรองรับน้ำหนักของซาวน่าได้อย่างเหมาะสม ข้อกำหนดด้านไฟฟ้าจะแตกต่างกันตามรุ่น โดยเราจะจัดเตรียมข้อมูลทางเทคนิคและคำแนะนำในการเตรียมพื้นที่อย่างครบถ้วนก่อนการจัดส่ง',
     warrantyTitle: 'การรับประกัน',
-    warrantyBody: 'PODERA มีการรับประกันโครงสร้าง 3 ปี ครอบคลุมโครงสร้าง การบุผิว และส่วนประกอบไม้ทั้งหมด เครื่องทำความร้อนมีการรับประกันของผู้ผลิต (โดยทั่วไป 2 ปี) ซีล กระจก และอุปกรณ์เสริมครอบคลุม 1 ปี',
+    warrantyBody: 'ซาวน่า PODERA ทุกหลังผลิตจากวัสดุคุณภาพสูงและออกแบบมาเพื่อการใช้งานที่ยาวนาน การรับประกันครอบคลุมโครงสร้างหลักของตัวซาวน่า ส่วนอุปกรณ์ต่าง ๆ เช่น ฮีตเตอร์ จะได้รับการรับประกันจากผู้ผลิตโดยตรง โดยรายละเอียดการรับประกันฉบับเต็มจะถูกจัดส่งพร้อมใบเสนอราคาและสัญญาซื้อขาย',
     faqTitle: 'คำถามที่พบบ่อย',
     faqs: [
       {
