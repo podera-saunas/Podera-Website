@@ -20,13 +20,13 @@ const models = {
         { label: 'Interior', value: '3 m × 4 m' },
         { label: 'Exterior', value: '3.2 m × 4.2 m' },
         { label: 'Height', value: '2.2 m interior' },
-        { label: 'Heater', value: '9 kW – 12 kW' },
+        { label: 'Heater', value: '12 kW' },
         { label: 'Weight', value: '~1,800 kg' },
       ],
     },
     {
       name: 'PODERA 3×6',
-      tagline: 'Social. Designed for groups and families.',
+      tagline: 'Social. Suana + A seperate steam room.',
       specs: [
         { label: 'Capacity', value: '4–8 persons' },
         { label: 'Interior', value: '3 m × 6 m' },
@@ -46,13 +46,13 @@ const models = {
         { label: 'ภายใน', value: '3 ม. × 4 ม.' },
         { label: 'ภายนอก', value: '3.2 ม. × 4.2 ม.' },
         { label: 'ความสูง', value: '2.2 ม. ภายใน' },
-        { label: 'เครื่องทำความร้อน', value: '9 kW – 12 kW' },
+        { label: 'เครื่องทำความร้อน', value: '12 kW' },
         { label: 'น้ำหนัก', value: '~1,800 กก.' },
       ],
     },
     {
       name: 'PODERA 3×6',
-      tagline: 'สำหรับกลุ่มและครอบครัว',
+      tagline: 'เพื่อการสังสรรค์ พร้อมห้องสตีมแยกส่วน',
       specs: [
         { label: 'ความจุ', value: '4–8 คน' },
         { label: 'ภายใน', value: '3 ม. × 6 ม.' },
