@@ -253,7 +253,7 @@ export function Contact() {
               <div className="space-y-3">
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/66000000000"
+                  href="https://wa.me/66640579410"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-5 border border-[#e5e5e5] hover:border-[#0a0a0a] transition-colors duration-300 group"
@@ -265,7 +265,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="text-[10px] tracking-[0.2em] uppercase text-[#0a0a0a] group-hover:opacity-60 transition-opacity">{copy.socials.whatsapp}</p>
-                    <p className="text-[10px] text-[#8a8a8a] mt-0.5">+66 00 000 0000</p>
+                    <p className="text-[10px] text-[#8a8a8a] mt-0.5">+66 64 057 9410</p>
                   </div>
                 </a>
 
@@ -283,13 +283,13 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="text-[10px] tracking-[0.2em] uppercase text-[#0a0a0a] group-hover:opacity-60 transition-opacity">{copy.socials.line}</p>
-                    <p className="text-[10px] text-[#8a8a8a] mt-0.5">@podera_sauna</p>
+                    <p className="text-[10px] text-[#8a8a8a] mt-0.5">+66 64 057 9410</p>
                   </div>
                 </a>
 
                 {/* Instagram */}
                 <a
-                  href="https://instagram.com/podera_sauna"
+                  href="https://instagram.com/podera.co"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-5 border border-[#e5e5e5] hover:border-[#0a0a0a] transition-colors duration-300 group"
@@ -301,7 +301,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="text-[10px] tracking-[0.2em] uppercase text-[#0a0a0a] group-hover:opacity-60 transition-opacity">{copy.socials.instagram}</p>
-                    <p className="text-[10px] text-[#8a8a8a] mt-0.5">@podera_sauna</p>
+                    <p className="text-[10px] text-[#8a8a8a] mt-0.5">@podera.co</p>
                   </div>
                 </a>
 
@@ -317,7 +317,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="text-[10px] tracking-[0.2em] uppercase text-[#0a0a0a] group-hover:opacity-60 transition-opacity">{copy.socials.email}</p>
-                    <p className="text-[10px] text-[#8a8a8a] mt-0.5">hello@podera.co.th</p>
+                    <p className="text-[10px] text-[#8a8a8a] mt-0.5">contact.podera@gmail.com</p>
                   </div>
                 </a>
               </div>
