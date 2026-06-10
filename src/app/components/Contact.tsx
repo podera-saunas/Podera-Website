@@ -112,7 +112,7 @@ export function Contact() {
    setStatus('sending');
 
 try {
-  const response = await fetch('YOUR_FORMSPREE_LINK_HERE', {
+  const response = await fetch('https://formspree.io/f/xbdekkjk', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
