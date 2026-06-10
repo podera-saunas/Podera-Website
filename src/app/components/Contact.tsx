@@ -102,16 +102,41 @@ export function Contact() {
     return e;
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+ const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     const errs = validate();
     if (Object.keys(errs).length > 0) {
       setErrors(errs);
       return;
     }
-    setStatus('sending');
-    // Simulate submission
-    setTimeout(() => setStatus('success'), 1600);
+   setStatus('sending');
+
+try {
+  const response = await fetch('YOUR_FORMSPREE_LINK_HERE', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Accept: 'application/json',
+    },
+    body: JSON.stringify(form),
+  });
+
+  if (!response.ok) {
+    throw new Error('Form submission failed');
+  }
+
+  setStatus('success');
+  setForm({
+    name: '',
+    email: '',
+    phone: '',
+    subject: copy.form.subjects[0],
+    message: '',
+  });
+} catch (error) {
+  setStatus('idle');
+  alert('Something went wrong. Please try again or contact us directly.');
+}
   };
 
   const inputClass = (err?: string) =>
@@ -307,7 +332,7 @@ export function Contact() {
 
                 {/* Email */}
                 <a
-                  href="mailto:hello@podera.co.th"
+                  href="mailto:contact.podera@gmail.com"
                   className="flex items-center gap-4 p-5 border border-[#e5e5e5] hover:border-[#0a0a0a] transition-colors duration-300 group"
                 >
                   <div className="w-8 h-8 flex items-center justify-center flex-shrink-0">
