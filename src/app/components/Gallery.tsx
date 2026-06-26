@@ -1,4 +1,5 @@
 import exteriorGallery1 from '../../imports/podera-exterior-01.jpg';
+import construction01 from '../../imports/podera-construction-01.jpg';
 import { motion, AnimatePresence } from 'motion/react';
 import { useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
@@ -88,8 +89,8 @@ const photos: Photo[] = [
     span: 'wide',
   },
   {
-    src: 'https://images.unsplash.com/photo-1657803778483-2b289d0f22c3?w=900&h=1100&fit=crop&auto=format',
-    alt: 'Wooden frame construction detail',
+    src: construction01,
+    alt: 'Podera Construction Process',
     category: 'construction',
     span: 'tall',
   },
