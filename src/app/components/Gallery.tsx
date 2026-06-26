@@ -1,4 +1,4 @@
-import exteriorGallery1 from '../../imports/exterior-gallery-1.jpg.jpeg';
+import exteriorGallery1 from '../../imports/gallery-exterior-01.jpg';
 import { motion, AnimatePresence } from 'motion/react';
 import { useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
