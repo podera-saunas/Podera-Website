@@ -45,7 +45,6 @@ const photos: Photo[] = [
   { src: exterior05, alt: 'PODERA sauna outdoor placement', category: 'exterior', span: 'wide' },
   { src: exterior06, alt: 'PODERA exterior craftsmanship', category: 'exterior', span: 'normal' },
   { src: exterior07, alt: 'PODERA finished sauna exterior', category: 'exterior', span: 'tall' },
-  { src: exterior08, alt: 'PODERA sauna exterior finish', category: 'exterior', span: 'normal' },
 
   { src: interior01, alt: 'PODERA sauna interior', category: 'interior', span: 'wide' },
   { src: interior02, alt: 'PODERA sauna bench detail', category: 'interior', span: 'normal' },
@@ -56,6 +55,8 @@ const photos: Photo[] = [
   { src: interior07, alt: 'PODERA sauna craftsmanship', category: 'interior', span: 'tall' },
   { src: interior08, alt: 'PODERA finished sauna interior', category: 'interior', span: 'normal' },
   { src: interior09, alt: 'PODERA interior detail', category: 'interior', span: 'wide' },
+  { src: interior10, alt: 'PODERA premium sauna interior', category: 'interior', span: 'tall' },
+  { src: interior11, alt: 'PODERA luxury sauna detail', category: 'interior', span: 'normal' },
 
   { src: construction01, alt: 'PODERA sauna construction process', category: 'construction', span: 'wide' },
   { src: construction02, alt: 'PODERA sauna build detail', category: 'construction', span: 'normal' },
