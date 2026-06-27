@@ -1,9 +1,13 @@
+import exterior05 from '../../imports/podera-exterior-05.jpg';
+import interior01 from '../../imports/podera-interior-01.jpg';
 import { motion } from 'motion/react';
 import { useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
 
-const INFO_IMG = 'https://images.unsplash.com/photo-1655194911126-6032bdcccc9d?w=2000&h=2600&fit=crop&auto=format';
-const HEATER_IMG = 'https://images.unsplash.com/photo-1678988227223-45112511eca2?w=1400&h=900&fit=crop&auto=format';
+const IMAGES = {
+  first: exterior05,
+  second: interior01,
+};
 
 const fadeUp = (delay = 0) => ({
   hidden: { opacity: 0, y: 36 },
