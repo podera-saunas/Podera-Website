@@ -30,7 +30,7 @@ const models = {
     },
     {
       name: 'PODERA 3×6',
-      tagline: 'Social. Sauna + A seperate steam room.',
+     tagline: 'Social. Sauna + a separate steam room.',
       specs: [
         { label: 'Capacity', value: '4–8 persons' },
         { label: 'Interior', value: '3 m × 6 m' },
@@ -118,9 +118,9 @@ const details = {
       'Delivery is available throughout Thailand. We will advise on access requirements and help ensure a smooth installation process.',
     ],
     siteTitle: 'Site Preparation',
-    siteBody: 'A stable and level surface is required before installation. Depending on the site, this may be a concrete foundation, support piers, or a structural decking system suitable for the saunas weight. Electrical requirements vary by model. Full technical specifications and preparation guidelines are provided prior to delivery.',
+    siteBody: 'A stable and level surface is required before installation. Depending on the site, this may be a concrete foundation, support piers, or a structural decking system suitable for the sauna\'s weight. Electrical requirements vary by model. Full technical specifications and preparation guidelines are provided prior to delivery.',
     warrantyTitle: 'Warranty',
-    warrantyBody: 'Every PODERA sauna is built using premium materials and designed for years of reliable use. Warranty coverage is provided for the structural construction, while equipment such as heaters is covered by the manufacturers warranty. Full warranty terms are provided with every quotation and purchase agreement.',
+    warrantyBody: 'Every PODERA sauna is built using premium materials and designed for years of reliable use. Warranty coverage is provided for the structural construction, while equipment such as heaters is covered by the manufacturer\'s warranty. Full warranty terms are provided with every quotation and purchase agreement.',
     faqTitle: 'Frequently Asked Questions',
     faqs: [
       {
@@ -237,7 +237,7 @@ export function Info() {
       {/* Page hero */}
       <div className="relative h-[50vh] min-h-[360px] flex items-end overflow-hidden bg-[#0a0a0a]">
         <img
-          src={INFO_IMG}
+          src={IMAGES.first}
           alt="PODERA cedar sauna exterior"
           className="absolute inset-0 w-full h-full object-cover opacity-55"
         />
@@ -362,7 +362,7 @@ export function Info() {
             className="overflow-hidden bg-[#f0ede8]"
           >
             <img
-              src={HEATER_IMG}
+              src={IMAGES.second}
               alt="Finnish sauna heater with volcanic rocks"
               className="w-full aspect-video object-cover"
             />
