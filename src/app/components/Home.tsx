@@ -236,7 +236,7 @@ export function Home() {
               <img
                 src={IMAGES.lifestyle3}
                 alt="Serene PODERA sauna interior with bench and window"
-                className="w-full aspect-[4/3] object-cover"
+                className="w-full h-full min-h-[185px] md:min-h-[274px] object-cover"
               />
             </motion.div>
           </div>
