@@ -1,14 +1,22 @@
+import exterior06 from '../../imports/podera-exterior-06.jpg';
+
+import interior03 from '../../imports/podera-interior-03.jpg';
+import interior04 from '../../imports/podera-interior-04.jpg';
+import interior05 from '../../imports/podera-interior-05.jpg';
+import interior07 from '../../imports/podera-interior-07.jpg';
 import { useNavigate } from 'react-router';
 import { motion, useScroll, useTransform } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 import { useRef } from 'react';
 
 const IMAGES = {
-  hero: 'https://images.unsplash.com/photo-1764942394410-5b3f027b459b?w=2400&h=1600&fit=crop&auto=format',
-  interior: 'https://images.unsplash.com/photo-1712659604528-b179a3634560?w=2000&h=2500&fit=crop&auto=format',
-  lifestyle1: 'https://images.unsplash.com/photo-1676452458392-00932840dc0c?w=1000&h=1300&fit=crop&auto=format',
-  lifestyle2: 'https://images.unsplash.com/photo-1712659606957-b7395ba9ebb2?w=1200&h=800&fit=crop&auto=format',
-  lifestyle3: 'https://images.unsplash.com/photo-1692985159902-50c672483c31?w=1000&h=1300&fit=crop&auto=format',
+  hero: exterior06,
+  interior: interior05,
+  lifestyle1: interior03,
+  lifestyle2: interior04,
+  lifestyle3: interior07,
+
+  // Leave this one for now
   exterior: 'https://images.unsplash.com/photo-1759299653207-e0e9874752ca?w=2400&h=1400&fit=crop&auto=format',
 };
 
