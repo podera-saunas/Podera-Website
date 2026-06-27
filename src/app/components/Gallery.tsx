@@ -15,8 +15,8 @@ import interior06 from '../../imports/podera-interior-06.jpg';
 import interior07 from '../../imports/podera-interior-07.jpg';
 import interior08 from '../../imports/podera-interior-08.jpg';
 import interior09 from '../../imports/podera-interior-09.jpg';
-import interior10 from '../../imports/podera-interior-09.jpg';
-import interior11 from '../../imports/podera-interior-09.jpg';
+import interior10 from '../../imports/podera-interior-10.jpg';
+import interior11 from '../../imports/podera-interior-11.jpg';
 
 import construction01 from '../../imports/podera-construction-01.jpg';
 import construction02 from '../../imports/podera-construction-02.jpg';
