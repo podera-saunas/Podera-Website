@@ -1,5 +1,28 @@
-import exteriorGallery1 from '../../imports/podera-exterior-01.jpg';
+import exterior01 from '../../imports/podera-exterior-01.jpg';
+import exterior02 from '../../imports/podera-exterior-02.jpg';
+import exterior03 from '../../imports/podera-exterior-03.jpg';
+import exterior04 from '../../imports/podera-exterior-04.jpg';
+import exterior05 from '../../imports/podera-exterior-05.jpg';
+import exterior06 from '../../imports/podera-exterior-06.jpg';
+import exterior07 from '../../imports/podera-exterior-07.jpg';
+import exterior08 from '../../imports/podera-exterior-08.jpg';
+
+import interior01 from '../../imports/podera-interior-01.jpg';
+import interior02 from '../../imports/podera-interior-02.jpg';
+import interior03 from '../../imports/podera-interior-03.jpg';
+import interior04 from '../../imports/podera-interior-04.jpg';
+import interior05 from '../../imports/podera-interior-05.jpg';
+import interior06 from '../../imports/podera-interior-06.jpg';
+import interior07 from '../../imports/podera-interior-07.jpg';
+import interior08 from '../../imports/podera-interior-08.jpg';
+import interior09 from '../../imports/podera-interior-09.jpg';
+
 import construction01 from '../../imports/podera-construction-01.jpg';
+import construction02 from '../../imports/podera-construction-02.jpg';
+
+import delivery01 from '../../imports/podera-delivery-01.jpg';
+import delivery02 from '../../imports/podera-delivery-02.jpg';
+import delivery03 from '../../imports/podera-delivery-03.jpg';
 import { motion, AnimatePresence } from 'motion/react';
 import { useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
