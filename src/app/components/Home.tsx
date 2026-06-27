@@ -221,7 +221,7 @@ export function Home() {
               <img
                 src={IMAGES.lifestyle2}
                 alt="PODERA sauna heater with rocks and window light"
-                className="w-full aspect-[4/3] object-cover"
+                className="w-full h-full min-h-[185px] md:min-h-[274px] object-cover"
               />
             </motion.div>
 
