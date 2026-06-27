@@ -37,109 +37,31 @@ interface Photo {
 }
 
 const photos: Photo[] = [
-  // Exterior
-  {
-  src: exteriorGallery1,
-  alt: 'PODERA exterior',
-  category: 'exterior',
-  span: 'wide',
-},
-  {
-    src: 'https://images.unsplash.com/photo-1655194911126-6032bdcccc9d?w=800&h=1200&fit=crop&auto=format',
-    alt: 'PODERA cedar sauna with black door',
-    category: 'exterior',
-    span: 'tall',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1759299653207-e0e9874752ca?w=1200&h=800&fit=crop&auto=format',
-    alt: 'PODERA sauna reflected in still water',
-    category: 'exterior',
-    span: 'wide',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1609861751930-e463bb2f2dad?w=800&h=1100&fit=crop&auto=format',
-    alt: 'Sauna cabin on rocky terrain',
-    category: 'exterior',
-    span: 'tall',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1604609165742-58e1b9cf0457?w=1000&h=800&fit=crop&auto=format',
-    alt: 'Wooden sauna near water at golden hour',
-    category: 'exterior',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1752564788161-77317f3cabb2?w=800&h=1200&fit=crop&auto=format',
-    alt: 'Wooden steps to sauna in forest setting',
-    category: 'exterior',
-    span: 'tall',
-  },
-  // Interior
-  {
-    src: 'https://images.unsplash.com/photo-1712659604528-b179a3634560?w=1200&h=900&fit=crop&auto=format',
-    alt: 'PODERA sauna interior with tiered benches',
-    category: 'interior',
-    span: 'wide',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1712659606957-b7395ba9ebb2?w=900&h=1200&fit=crop&auto=format',
-    alt: 'PODERA sauna with window view and heater rocks',
-    category: 'interior',
-    span: 'tall',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1692985159902-50c672483c31?w=1200&h=900&fit=crop&auto=format',
-    alt: 'Serene sauna interior with bench and natural light',
-    category: 'interior',
-    span: 'wide',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1717356495389-6ab1e5ff9d84?w=900&h=1200&fit=crop&auto=format',
-    alt: 'Wooden sauna bench with warm light',
-    category: 'interior',
-    span: 'tall',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1572168400468-62e1b3209d7d?w=1000&h=1300&fit=crop&auto=format',
-    alt: 'Cedar sauna benches close up',
-    category: 'interior',
-    span: 'tall',
-  },
-  // Construction
-  {
-    src: 'https://images.unsplash.com/photo-1678988227223-45112511eca2?w=1200&h=800&fit=crop&auto=format',
-    alt: 'Sauna heater with black bucket and ladles',
-    category: 'construction',
-    span: 'wide',
-  },
-  {
-    src: construction01,
-    alt: 'Podera Construction Process',
-    category: 'construction',
-    span: 'tall',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1604609165678-096d20fab1ad?w=1000&h=800&fit=crop&auto=format',
-    alt: 'Sauna construction near water',
-    category: 'construction',
-  },
-  // Delivery
-  {
-    src: 'https://images.unsplash.com/photo-1696702943218-0b7d66f1af17?w=1200&h=800&fit=crop&auto=format',
-    alt: 'PODERA unit placed on hillside location',
-    category: 'delivery',
-    span: 'wide',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1676452458392-00932840dc0c?w=900&h=1200&fit=crop&auto=format',
-    alt: 'Client enjoying PODERA sauna after delivery',
-    category: 'delivery',
-    span: 'tall',
-  },
-  {
-    src: 'https://images.unsplash.com/photo-1739869481946-c054e37a55b1?w=1000&h=700&fit=crop&auto=format',
-    alt: 'Couple enjoying PODERA sauna',
-    category: 'delivery',
-  },
+  { src: exterior01, alt: 'PODERA sauna exterior front view', category: 'exterior', span: 'wide' },
+  { src: exterior02, alt: 'PODERA exterior detail', category: 'exterior', span: 'normal' },
+  { src: exterior03, alt: 'PODERA sauna exterior angle', category: 'exterior', span: 'tall' },
+  { src: exterior04, alt: 'PODERA exterior side view', category: 'exterior', span: 'normal' },
+  { src: exterior05, alt: 'PODERA sauna outdoor placement', category: 'exterior', span: 'wide' },
+  { src: exterior06, alt: 'PODERA exterior craftsmanship', category: 'exterior', span: 'normal' },
+  { src: exterior07, alt: 'PODERA finished sauna exterior', category: 'exterior', span: 'tall' },
+  { src: exterior08, alt: 'PODERA sauna exterior finish', category: 'exterior', span: 'normal' },
+
+  { src: interior01, alt: 'PODERA sauna interior', category: 'interior', span: 'wide' },
+  { src: interior02, alt: 'PODERA sauna bench detail', category: 'interior', span: 'normal' },
+  { src: interior03, alt: 'PODERA sauna heater area', category: 'interior', span: 'tall' },
+  { src: interior04, alt: 'PODERA interior wood finish', category: 'interior', span: 'normal' },
+  { src: interior05, alt: 'PODERA sauna seating area', category: 'interior', span: 'wide' },
+  { src: interior06, alt: 'PODERA interior lighting', category: 'interior', span: 'normal' },
+  { src: interior07, alt: 'PODERA sauna craftsmanship', category: 'interior', span: 'tall' },
+  { src: interior08, alt: 'PODERA finished sauna interior', category: 'interior', span: 'normal' },
+  { src: interior09, alt: 'PODERA interior detail', category: 'interior', span: 'wide' },
+
+  { src: construction01, alt: 'PODERA sauna construction process', category: 'construction', span: 'wide' },
+  { src: construction02, alt: 'PODERA sauna build detail', category: 'construction', span: 'normal' },
+
+  { src: delivery01, alt: 'PODERA sauna delivery process', category: 'delivery', span: 'wide' },
+  { src: delivery02, alt: 'PODERA sauna being transported', category: 'delivery', span: 'normal' },
+  { src: delivery03, alt: 'PODERA sauna placement process', category: 'delivery', span: 'wide' },
 ];
 
 const categories = {
