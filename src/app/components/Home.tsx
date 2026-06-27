@@ -1,3 +1,9 @@
+import exterior06 from '../../imports/podera-exterior-06.jpg';
+
+import interior03 from '../../imports/podera-interior-03.jpg';
+import interior04 from '../../imports/podera-interior-04.jpg';
+import interior05 from '../../imports/podera-interior-05.jpg';
+import interior07 from '../../imports/podera-interior-07.jpg';
 import { useNavigate } from 'react-router';
 import { motion, useScroll, useTransform } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
