@@ -17,24 +17,24 @@ const fadeUp = (delay = 0) => ({
 const models = {
   en: [
     {
-      name: 'PODERA 3×4',
+      name: 'PODERA 2.5×4',
       tagline: 'Intimate. Perfect for personal use.',
       specs: [
         { label: 'Capacity', value: '4-8 persons' },
-        { label: 'Interior', value: '3 m × 4 m' },
-        { label: 'Exterior', value: '3.2 m × 4.2 m' },
+        { label: 'Interior', value: '2.4 m × 3.9 m' },
+        { label: 'Exterior', value: '2.5 m × 4 m' },
         { label: 'Height', value: '2.2 m interior' },
         { label: 'Heater', value: '12 kW' },
         { label: 'Weight', value: '~1,800 kg' },
       ],
     },
     {
-      name: 'PODERA 3×6',
+      name: 'PODERA 2.5×6',
      tagline: 'Social. Sauna + a separate steam room.',
       specs: [
         { label: 'Capacity', value: '4–8 persons' },
-        { label: 'Interior', value: '3 m × 6 m' },
-        { label: 'Exterior', value: '3.2 m × 6.2 m' },
+        { label: 'Interior', value: '2.4 m × 5.9 m' },
+        { label: 'Exterior', value: '2.5 m × 6 m' },
         { label: 'Height', value: '2.2 m interior' },
         { label: 'Heater', value: '15 kW – 18 kW' },
         { label: 'Weight', value: '~2,600 kg' },
@@ -43,24 +43,24 @@ const models = {
   ],
   th: [
     {
-      name: 'PODERA 3×4',
+      name: 'PODERA 2.5×4',
       tagline: 'สำหรับการใช้งานส่วนตัว',
       specs: [
         { label: 'ความจุ', value: '4-8 คน' },
-        { label: 'ภายใน', value: '3 ม. × 4 ม.' },
-        { label: 'ภายนอก', value: '3.2 ม. × 4.2 ม.' },
+        { label: 'ภายใน', value: '2.4 ม. × 3.9 ม.' },
+        { label: 'ภายนอก', value: '2.5 ม. × 4 ม.' },
         { label: 'ความสูง', value: '2.2 ม. ภายใน' },
         { label: 'เครื่องทำความร้อน', value: '12 kW' },
         { label: 'น้ำหนัก', value: '~1,800 กก.' },
       ],
     },
     {
-      name: 'PODERA 3×6',
+      name: 'PODERA 2.5×6',
       tagline: 'เพื่อการสังสรรค์ พร้อมห้องสตีมแยกส่วน',
       specs: [
         { label: 'ความจุ', value: '4–8 คน' },
-        { label: 'ภายใน', value: '3 ม. × 6 ม.' },
-        { label: 'ภายนอก', value: '3.2 ม. × 6.2 ม.' },
+        { label: 'ภายใน', value: '2.4 ม. × 5.9 ม.' },
+        { label: 'ภายนอก', value: '2.5 ม. × 6 ม.' },
         { label: 'ความสูง', value: '2.2 ม. ภายใน' },
         { label: 'เครื่องทำความร้อน', value: '15 kW – 18 kW' },
         { label: 'น้ำหนัก', value: '~2,600 กก.' },
