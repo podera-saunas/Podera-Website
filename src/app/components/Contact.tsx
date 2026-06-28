@@ -126,7 +126,13 @@ try {
   }
 
   setStatus('success');
-  setForm({
+
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  event: 'contact_form_success'
+});
+
+setForm({
     name: '',
     email: '',
     phone: '',
