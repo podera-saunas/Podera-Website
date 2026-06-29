@@ -152,7 +152,7 @@ const trackContactClick = (channel: string) => {
 
   window.dataLayer.push({
     event: "contact_channel_click",
-    contact_channel: contact_channel,
+    contact_channel: channel,
   });
 
   console.log("contact_channel_click", channel);
