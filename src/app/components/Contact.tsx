@@ -147,7 +147,13 @@ setForm({
 
   const inputClass = (err?: string) =>
     `w-full bg-transparent border-b ${err ? 'border-red-400' : 'border-[#e5e5e5]'} py-4 text-sm text-[#0a0a0a] placeholder-[#c0c0c0] focus:outline-none focus:border-[#0a0a0a] transition-colors duration-300`;
-
+const trackContactClick = (channel: string) => {
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    event: "contact_channel_click",
+    contact_channel: channel,
+  });
+};
   return (
     <div className="pt-[68px]">
       {/* Page header */}
@@ -285,6 +291,7 @@ setForm({
                 {/* WhatsApp */}
                 <a
                   href="https://wa.me/66640579410"
+                  onClick={() => trackContactClick("whatsapp")}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-5 border border-[#e5e5e5] hover:border-[#0a0a0a] transition-colors duration-300 group"
@@ -303,6 +310,7 @@ setForm({
                 {/* LINE */}
                 <a
                   href="https://line.me/ti/p/cN0NBS6Ton"
+                  onClick={() => trackContactClick("line")}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-5 border border-[#e5e5e5] hover:border-[#0a0a0a] transition-colors duration-300 group"
@@ -321,6 +329,7 @@ setForm({
                 {/* Instagram */}
                 <a
                   href="https://instagram.com/podera.co"
+                  onClick={() => trackContactClick("instagram")}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-5 border border-[#e5e5e5] hover:border-[#0a0a0a] transition-colors duration-300 group"
@@ -339,6 +348,7 @@ setForm({
                 {/* Email */}
                 <a
                   href="mailto:contact.podera@gmail.com"
+                  onClick={() => trackContactClick("email")}
                   className="flex items-center gap-4 p-5 border border-[#e5e5e5] hover:border-[#0a0a0a] transition-colors duration-300 group"
                 >
                   <div className="w-8 h-8 flex items-center justify-center flex-shrink-0">
