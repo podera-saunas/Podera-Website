@@ -149,10 +149,13 @@ setForm({
     `w-full bg-transparent border-b ${err ? 'border-red-400' : 'border-[#e5e5e5]'} py-4 text-sm text-[#0a0a0a] placeholder-[#c0c0c0] focus:outline-none focus:border-[#0a0a0a] transition-colors duration-300`;
 const trackContactClick = (channel: string) => {
   window.dataLayer = window.dataLayer || [];
+
   window.dataLayer.push({
     event: "contact_channel_click",
     contact_channel: channel,
   });
+
+  console.log("contact_channel_click", channel);
 };
   return (
     <div className="pt-[68px]">
