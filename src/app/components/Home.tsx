@@ -22,7 +22,7 @@ const IMAGES = {
 
 const t = {
   en: {
-    tagline: 'A sauna that moves with you.',
+    tagline: 'Luxury Outdoor Saunas in Thailand | Podera',
     scrollHint: 'Scroll',
     s2Title: 'Crafted for those\nwho demand more.',
     s2Sub: 'Premium cedar. Precision engineering. Delivered to your door.',
