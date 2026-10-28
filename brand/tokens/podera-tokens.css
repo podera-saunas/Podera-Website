@@ -1,0 +1,25 @@
+/* PODERA design tokens — see brand/DESIGN_SYSTEM.md */
+:root {
+  --podera-black: #141414;
+  --podera-graphite: #2b2b2b;
+  --podera-gold: #c9a227;
+  --podera-gold-light: #e3c56a;
+  --podera-gold-deep: #8e7018;
+  --podera-cream: #f6f1e4;
+  --podera-cedar: #8a5a3b;
+  --podera-smoke: #9a968c;
+  --podera-line: rgba(246, 241, 228, 0.14);
+  --podera-gold-metal: linear-gradient(135deg, #8e7018 0%, #c9a227 35%, #e3c56a 50%, #c9a227 65%, #8e7018 100%);
+
+  --podera-font-sans: "Inter", "Noto Sans Thai", system-ui, sans-serif;
+  --podera-font-serif: "Instrument Serif", Georgia, serif;
+  --podera-font-script: "Tempting", cursive;
+
+  --podera-radius-card: 24px;
+  --podera-radius-photo: 16px;
+  --podera-radius-chip: 12px;
+  --podera-radius-pill: 999px;
+
+  --podera-ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --podera-ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+}

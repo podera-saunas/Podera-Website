@@ -57,7 +57,7 @@
 ### Пара шрифтов (R1)
 | Роль | Шрифт | Начертание | Где применяем |
 |---|---|---|---|
-| **Display** (главное слово) | Inter | Bold / ExtraBold / Black, tracking −2…−4 % | «ДОСТАВИМ», «3×6», «ЗА 1 ДЕНЬ» |
+| **Display** (главное слово) | Inter | Bold / ExtraBold / Black, tracking −2…−4 % | «ДОСТАВИМ», «2.5×6», «ЗА 1 ДЕНЬ» |
 | **Accent** (эмоция) | Tempting (script) | Regular | Слова-ощущения: *escape*, *every day*, *relax*, *home*. Накладывается поверх или над Inter-словом, как в R1 |
 | **Body / UI** | Inter | Regular / Medium / SemiBold | Вводные строки, субтитры, карточки, кнопки, сайт |
 
