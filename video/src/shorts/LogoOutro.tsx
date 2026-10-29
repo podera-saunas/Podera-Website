@@ -9,7 +9,7 @@ const Sfx: React.FC<{name: string; at: number; volume?: number}> = ({name, at, v
   </Sequence>
 );
 
-export const LogoOutro: React.FC = () => {
+export const LogoOutro: React.FC<{cta?: string}> = ({cta = 'Follow the build'}) => {
   const bg = useIn(0.35, 8);
   const mark = useIn(0.6, 14);
   const frame = useCurrentFrame();
@@ -45,7 +45,7 @@ export const LogoOutro: React.FC = () => {
         </div>
         <Script text="Your escape, every day" at={1.4} size={110} color={colors.cream} />
         <div style={{height: 60}} />
-        <Eyebrow text="Follow the build" at={1.8} color={colors.smoke} />
+        <Eyebrow text={cta} at={1.8} color={cta === 'Follow the build' ? colors.smoke : colors.gold} />
       </AbsoluteFill>
       <Steam start={0} dur={1.4} />
       <Sfx name="steam" at={0} />
