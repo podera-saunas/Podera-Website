@@ -41,7 +41,7 @@
 | 0–3.2 | IMG_8862 (обшивка ночью снизу, светильники карниза) + 3 стука | What you don't see / *costs the most.* |
 | 3.2–8.2 | IMG_9412 (цех: верстак, инструмент) → IMG_1907 (пол-«ёлочка» крупно) | Inside the wall · Every PODERA wall is built in our workshop. |
 | 8.2–15.2 | IMG_8820 → IMG_8803 (стены парной с подсветкой, затемнены) + схема стены | Outside → in: Exterior cladding · Insulation · Vapour barrier · Cedar lining |
-| 15.2–21.2 | IMG_8839 (печь целиком) → IMG_8819 (вид в печь, «тоннель») | SAWO · 12–18 kW |
+| 15.2–21.2 | IMG_8839 (печь целиком) → IMG_8819 (вид в печь, «тоннель») | Heater · PODERA 2.5×4 · SAWO · 12 kW |
 | 21.2–25.2 | IMG_8851 (проход мимо окна парной к двери, вечер) | A glass door that keeps the heat in. |
 | 25.2–30.7 | IMG_8836 (потолок с LED) → IMG_1910 (пол → полки) | You'll never see these layers. You'll feel them every session. |
 | 30.7–33.3 | IMG_8853 (окно в светящуюся парную снаружи) | **Comment WOOD** · for our materials guide |

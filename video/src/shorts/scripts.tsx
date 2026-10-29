@@ -261,8 +261,8 @@ export const InsideTheWalls: React.FC = () => (
       <Shade strength={0.6} />
       <Stage top={1160}>
         <A.Glass at={15.5}>
-          <A.Eyebrow text="Heater" at={15.5} color={colors.goldLight} />
-          <A.Serif text="SAWO · 12–18 kW" at={15.7} size={96} />
+          <A.Eyebrow text="Heater · PODERA 2.5×4" at={15.5} color={colors.goldLight} />
+          <A.Serif text="SAWO · 12 kW" at={15.7} size={110} />
         </A.Glass>
       </Stage>
     </Block>
