@@ -1,0 +1,787 @@
+[
+{
+"text": "I",
+"start": 0.2,
+"end": 0.28
+},
+{
+"text": "dropped",
+"start": 0.28,
+"end": 0.48
+},
+{
+"text": "out",
+"start": 0.48,
+"end": 0.76
+},
+{
+"text": "in",
+"start": 0.76,
+"end": 1.3
+},
+{
+"text": "my",
+"start": 1.3,
+"end": 1.44
+},
+{
+"text": "final",
+"start": 1.44,
+"end": 1.68
+},
+{
+"text": "year",
+"start": 1.68,
+"end": 1.92
+},
+{
+"text": "of",
+"start": 1.92,
+"end": 2.1
+},
+{
+"text": "school.",
+"start": 2.1,
+"end": 2.18
+},
+{
+"text": "My",
+"start": 2.7,
+"end": 2.76
+},
+{
+"text": "name's",
+"start": 2.76,
+"end": 2.96
+},
+{
+"text": "Yasha,",
+"start": 2.96,
+"end": 3.18
+},
+{
+"text": "I'm",
+"start": 3.58,
+"end": 3.7
+},
+{
+"text": "a",
+"start": 3.7,
+"end": 3.82
+},
+{
+"text": "17",
+"start": 3.82,
+"end": 4.14
+},
+{
+"text": "years",
+"start": 4.14,
+"end": 4.38
+},
+{
+"text": "old.",
+"start": 4.38,
+"end": 4.56
+},
+{
+"text": "I'm",
+"start": 4.92,
+"end": 5.06
+},
+{
+"text": "Russian,",
+"start": 5.06,
+"end": 5.34
+},
+{
+"text": "but",
+"start": 5.54,
+"end": 5.64
+},
+{
+"text": "I've",
+"start": 5.64,
+"end": 5.78
+},
+{
+"text": "been",
+"start": 5.78,
+"end": 5.92
+},
+{
+"text": "living",
+"start": 5.92,
+"end": 6.14
+},
+{
+"text": "in",
+"start": 6.14,
+"end": 6.48
+},
+{
+"text": "Pattaya,",
+"start": 6.48,
+"end": 6.66
+},
+{
+"text": "Thailand",
+"start": 6.74,
+"end": 7.04
+},
+{
+"text": "for",
+"start": 7.04,
+"end": 7.28
+},
+{
+"text": "the",
+"start": 7.28,
+"end": 7.42
+},
+{
+"text": "last",
+"start": 7.42,
+"end": 7.82
+},
+{
+"text": "16",
+"start": 7.82,
+"end": 8.6
+},
+{
+"text": "years.",
+"start": 8.6,
+"end": 8.94
+},
+{
+"text": "It",
+"start": 9.3,
+"end": 9.36
+},
+{
+"text": "wasn't",
+"start": 9.36,
+"end": 9.54
+},
+{
+"text": "giving",
+"start": 9.54,
+"end": 9.74
+},
+{
+"text": "me",
+"start": 9.74,
+"end": 9.98
+},
+{
+"text": "the",
+"start": 9.98,
+"end": 10.12
+},
+{
+"text": "information,",
+"start": 10.12,
+"end": 10.52
+},
+{
+"text": "the",
+"start": 10.78,
+"end": 10.82
+},
+{
+"text": "knowledge",
+"start": 10.82,
+"end": 11.28
+},
+{
+"text": "that",
+"start": 11.28,
+"end": 12.0
+},
+{
+"text": "I",
+"start": 12.0,
+"end": 12.14
+},
+{
+"text": "needed",
+"start": 12.14,
+"end": 12.48
+},
+{
+"text": "5,",
+"start": 12.48,
+"end": 13.64
+},
+{
+"text": "10,",
+"start": 13.84,
+"end": 14.0
+},
+{
+"text": "15",
+"start": 14.06,
+"end": 14.4
+},
+{
+"text": "years",
+"start": 14.4,
+"end": 14.8
+},
+{
+"text": "from",
+"start": 14.8,
+"end": 15.02
+},
+{
+"text": "now.",
+"start": 15.02,
+"end": 15.32
+},
+{
+"text": "In",
+"start": 15.64,
+"end": 15.74
+},
+{
+"text": "October",
+"start": 15.74,
+"end": 16.0
+},
+{
+"text": "of",
+"start": 16.0,
+"end": 16.24
+},
+{
+"text": "2025,",
+"start": 16.24,
+"end": 16.68
+},
+{
+"text": "I",
+"start": 17.18,
+"end": 17.82
+},
+{
+"text": "got",
+"start": 17.82,
+"end": 17.92
+},
+{
+"text": "a",
+"start": 17.92,
+"end": 18.12
+},
+{
+"text": "great",
+"start": 18.12,
+"end": 18.24
+},
+{
+"text": "idea.",
+"start": 18.24,
+"end": 18.66
+},
+{
+"text": "And",
+"start": 18.92,
+"end": 19.08
+},
+{
+"text": "it",
+"start": 19.08,
+"end": 19.24
+},
+{
+"text": "was",
+"start": 19.24,
+"end": 19.36
+},
+{
+"text": "a",
+"start": 19.36,
+"end": 19.5
+},
+{
+"text": "growing",
+"start": 19.5,
+"end": 19.68
+},
+{
+"text": "business",
+"start": 19.68,
+"end": 20.12
+},
+{
+"text": "of",
+"start": 20.12,
+"end": 20.46
+},
+{
+"text": "prefab,",
+"start": 20.46,
+"end": 21.1
+},
+{
+"text": "movable,",
+"start": 21.36,
+"end": 21.78
+},
+{
+"text": "home",
+"start": 22.7,
+"end": 23.18
+},
+{
+"text": "saunas,",
+"start": 23.18,
+"end": 23.66
+},
+{
+"text": "decided",
+"start": 24.02,
+"end": 24.3
+},
+{
+"text": "to",
+"start": 24.3,
+"end": 24.5
+},
+{
+"text": "get",
+"start": 24.5,
+"end": 24.62
+},
+{
+"text": "in",
+"start": 24.62,
+"end": 24.76
+},
+{
+"text": "early.",
+"start": 24.76,
+"end": 25.08
+},
+{
+"text": "Been",
+"start": 25.42,
+"end": 25.52
+},
+{
+"text": "super",
+"start": 25.52,
+"end": 25.66
+},
+{
+"text": "hard,",
+"start": 25.66,
+"end": 25.98
+},
+{
+"text": "I",
+"start": 26.38,
+"end": 26.46
+},
+{
+"text": "won't",
+"start": 26.46,
+"end": 26.86
+},
+{
+"text": "lie.",
+"start": 26.86,
+"end": 26.86
+},
+{
+"text": "I'm",
+"start": 27.5,
+"end": 27.96
+},
+{
+"text": "the",
+"start": 27.96,
+"end": 28.44
+},
+{
+"text": "one",
+"start": 28.44,
+"end": 28.62
+},
+{
+"text": "running",
+"start": 28.62,
+"end": 28.86
+},
+{
+"text": "it.",
+"start": 28.86,
+"end": 29.06
+},
+{
+"text": "I'm",
+"start": 29.18,
+"end": 29.32
+},
+{
+"text": "the",
+"start": 29.32,
+"end": 29.42
+},
+{
+"text": "one",
+"start": 29.42,
+"end": 29.54
+},
+{
+"text": "controlling",
+"start": 29.54,
+"end": 29.86
+},
+{
+"text": "everything.",
+"start": 29.86,
+"end": 30.32
+},
+{
+"text": "I'm",
+"start": 30.46,
+"end": 30.6
+},
+{
+"text": "the",
+"start": 30.6,
+"end": 30.72
+},
+{
+"text": "one",
+"start": 30.72,
+"end": 30.88
+},
+{
+"text": "paying",
+"start": 30.88,
+"end": 31.88
+},
+{
+"text": "the",
+"start": 31.88,
+"end": 32.04
+},
+{
+"text": "bills.",
+"start": 32.04,
+"end": 32.2
+},
+{
+"text": "I'm",
+"start": 32.36,
+"end": 32.42
+},
+{
+"text": "the",
+"start": 32.42,
+"end": 32.54
+},
+{
+"text": "one",
+"start": 32.54,
+"end": 32.74
+},
+{
+"text": "paying",
+"start": 32.74,
+"end": 33.6
+},
+{
+"text": "the",
+"start": 33.6,
+"end": 33.72
+},
+{
+"text": "workers.",
+"start": 33.72,
+"end": 33.94
+},
+{
+"text": "This",
+"start": 34.42,
+"end": 34.7
+},
+{
+"text": "underneath",
+"start": 34.7,
+"end": 35.3
+},
+{
+"text": "the",
+"start": 35.3,
+"end": 35.6
+},
+{
+"text": "sauna",
+"start": 35.6,
+"end": 35.92
+},
+{
+"text": "floor",
+"start": 35.92,
+"end": 36.28
+},
+{
+"text": "is",
+"start": 36.28,
+"end": 36.76
+},
+{
+"text": "a",
+"start": 36.76,
+"end": 37.3
+},
+{
+"text": "trailer",
+"start": 37.3,
+"end": 37.54
+},
+{
+"text": "that",
+"start": 38.18,
+"end": 38.48
+},
+{
+"text": "we've",
+"start": 38.48,
+"end": 39.4
+},
+{
+"text": "designed",
+"start": 39.4,
+"end": 40.12
+},
+{
+"text": "to",
+"start": 40.12,
+"end": 40.66
+},
+{
+"text": "custom",
+"start": 40.66,
+"end": 40.96
+},
+{
+"text": "fit",
+"start": 40.96,
+"end": 41.3
+},
+{
+"text": "our",
+"start": 41.3,
+"end": 41.54
+},
+{
+"text": "saunas.",
+"start": 41.54,
+"end": 42.0
+},
+{
+"text": "With",
+"start": 42.18,
+"end": 42.4
+},
+{
+"text": "the",
+"start": 42.4,
+"end": 42.56
+},
+{
+"text": "wheels,",
+"start": 42.56,
+"end": 42.9
+},
+{
+"text": "but",
+"start": 43.2,
+"end": 43.42
+},
+{
+"text": "also",
+"start": 43.42,
+"end": 43.68
+},
+{
+"text": "the",
+"start": 43.68,
+"end": 43.84
+},
+{
+"text": "stand",
+"start": 43.84,
+"end": 44.3
+},
+{
+"text": "that",
+"start": 44.92,
+"end": 45.22
+},
+{
+"text": "you're",
+"start": 45.22,
+"end": 45.74
+},
+{
+"text": "able",
+"start": 45.74,
+"end": 45.94
+},
+{
+"text": "to",
+"start": 45.94,
+"end": 46.08
+},
+{
+"text": "rotate,",
+"start": 46.08,
+"end": 46.46
+},
+{
+"text": "lift",
+"start": 46.66,
+"end": 46.78
+},
+{
+"text": "the",
+"start": 46.78,
+"end": 46.92
+},
+{
+"text": "sauna.",
+"start": 46.92,
+"end": 47.16
+},
+{
+"text": "Finally,",
+"start": 47.52,
+"end": 47.96
+},
+{
+"text": "after",
+"start": 48.74,
+"end": 49.06
+},
+{
+"text": "months",
+"start": 49.06,
+"end": 49.46
+},
+{
+"text": "and",
+"start": 49.46,
+"end": 49.76
+},
+{
+"text": "months",
+"start": 49.76,
+"end": 50.14
+},
+{
+"text": "and",
+"start": 50.14,
+"end": 50.56
+},
+{
+"text": "months,",
+"start": 50.56,
+"end": 50.98
+},
+{
+"text": "I've",
+"start": 51.56,
+"end": 52.06
+},
+{
+"text": "got",
+"start": 52.06,
+"end": 52.78
+},
+{
+"text": "here",
+"start": 52.78,
+"end": 53.0
+},
+{
+"text": "standing",
+"start": 53.0,
+"end": 53.46
+},
+{
+"text": "fully",
+"start": 53.46,
+"end": 55.26
+},
+{
+"text": "on",
+"start": 55.26,
+"end": 55.6
+},
+{
+"text": "its",
+"start": 55.6,
+"end": 55.74
+},
+{
+"text": "own",
+"start": 55.74,
+"end": 56.06
+},
+{
+"text": "and",
+"start": 56.06,
+"end": 56.46
+},
+{
+"text": "stay",
+"start": 56.46,
+"end": 56.8
+},
+{
+"text": "tuned",
+"start": 56.8,
+"end": 57.02
+},
+{
+"text": "because",
+"start": 57.02,
+"end": 57.36
+},
+{
+"text": "there's",
+"start": 57.36,
+"end": 57.98
+},
+{
+"text": "a",
+"start": 57.98,
+"end": 58.04
+},
+{
+"text": "lot",
+"start": 58.04,
+"end": 58.16
+},
+{
+"text": "more",
+"start": 58.16,
+"end": 58.32
+},
+{
+"text": "coming",
+"start": 58.32,
+"end": 58.48
+},
+{
+"text": "soon.",
+"start": 58.48,
+"end": 58.72
+}
+]
