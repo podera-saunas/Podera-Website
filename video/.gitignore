@@ -9,3 +9,4 @@ node_modules
 out
 public/media
 .DS_Store
+public/music
