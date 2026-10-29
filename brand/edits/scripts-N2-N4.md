@@ -26,16 +26,29 @@
 | Время | Сценарий | Что у нас | Текст |
 |---|---|---|---|
 | 0–3.5 | POV: рука открывает дверь, пар | **IMG_1881**: рука открывает стеклянную дверь, внутри тёплый свет | Don't buy a sauna / *from photos.* |
-| 3.5–8.5 | POV идёт к сауне | IMG_8848 (проход вдоль фасада к веранде, вечер) | A finished PODERA · Pattaya · Built. Lit. Ready to try. |
+| 3.5–8.5 | POV идёт к сауне | IMG_8848 (проход вдоль фасада к веранде, вечер) | Finished PODERA · Pattaya & Phuket · Built. Lit. Ready to try. |
 | 8.5–15.5 | Ладонь по скамье, стене, ручке | IMG_1952 (рука по полку) → IMG_8797 (ручка) → IMG_8803 (спинки) | Touch it. Sit in it. · Check the bench height. · Feel the details. · Touch the wood. |
-| 15.5–25.5 | Ковш льёт воду на камни, гость садится | Ковша и людей нет → печь IMG_8839 + **анимированный пар** и звук пара → IMG_8801 → IMG_8818 | Bring your partner. Bring your plot questions. · 40 min · no obligation |
+| 15.5–25.5 | Ковш льёт воду на камни, гость садится | Ковша и людей нет → печь IMG_8839 + **анимированный пар** и звук пара → IMG_8801 → IMG_8818 | Bring your partner. Bring your plot questions. · Stay as long as you need · No obligation |
 | 25.5–28.5 | Дверь закрывается изнутри | IMG_8844 (стеклянная дверь с подсветкой изнутри) | **Comment VISIT** · We'll send the location and free times. |
 
-**Подтвердить:** [РАЙОН] я поставила **Pattaya** (база PODERA). Есть ли готовая сауна для визитов и правда ли «40 min, no obligation»?
+**Подтверждено владельцем:** визиты в **Pattaya и Phuket**, время любое (сколько потребуется).
 
-## N4 «What's hidden in the walls» · 36 с · CTA: Comment WOOD
-| Время | Сценарий | Что у нас | Текст |
-|---|---|---|---|
+## N4 «What's hidden in the walls» v2 · 36 с · CTA: Comment WOOD
+Переделано по отзыву: **без Яши в кадре**, новые кадры, новая музыка (`n4_cinematic.wav`: собственный трек, 76 BPM, ре минор, пианино, струнные и пульс, нарастание к 25 с).
+
+| Время | Кадр | Текст |
+|---|---|---|
+| 0–3.2 | IMG_8862 (обшивка ночью снизу, светильники карниза) + 3 стука | What you don't see / *costs the most.* |
+| 3.2–8.2 | IMG_9412 (цех: верстак, инструмент) → IMG_1907 (пол-«ёлочка» крупно) | Inside the wall · Every PODERA wall is built in our workshop. |
+| 8.2–15.2 | IMG_8820 → IMG_8803 (стены парной с подсветкой, затемнены) + схема стены | Outside → in: Exterior cladding · Insulation · Vapour barrier · Cedar lining |
+| 15.2–21.2 | IMG_8839 (печь целиком) → IMG_8819 (вид в печь, «тоннель») | SAWO · 12–18 kW |
+| 21.2–25.2 | IMG_8851 (проход мимо окна парной к двери, вечер) | A glass door that keeps the heat in. |
+| 25.2–30.7 | IMG_8836 (потолок с LED) → IMG_1910 (пол → полки) | You'll never see these layers. You'll feel them every session. |
+| 30.7–33.3 | IMG_8853 (окно в светящуюся парную снаружи) | **Comment WOOD** · for our materials guide |
+
+**Подтвердить:** пароизоляция (фольга) и дерево внутри по умолчанию (стоит *Cedar lining*).
+
+---|---|---|---|
 | 0–3 | Костяшки стучат по стене | IMG_2008 (обшивка крупно) + **3 стука** (звук) | What you don't see / *costs the most.* |
 | 3–8 | Открытый каркас в мастерской | 3.mov: стальной каркас, Яша показывает рукой → 2.mov: каркас снизу | Inside the wall · A PODERA wall before it's closed. |
 | 8–15 | Слои по 1.5 с | Утеплителя и плёнки в материале нет → **анимированная схема стены**: 4 слоя въезжают по очереди поверх IMG_8861 → каркаса → IMG_8803 | Outside → in: 1 Exterior cladding · 2 Insulation · 3 Vapour barrier · 4 Cedar lining |

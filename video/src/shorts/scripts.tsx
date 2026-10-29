@@ -149,7 +149,7 @@ export const VisitShowroom: React.FC = () => (
     <Block from={3.5} to={8.5} name="Finished PODERA">
       <Shade strength={0.65} />
       <Stage top={1060}>
-        <A.Eyebrow text="A finished PODERA · Pattaya" at={3.7} color={colors.gold} />
+        <A.Eyebrow text="Finished PODERA · Pattaya & Phuket" at={3.7} color={colors.gold} />
         <Say text="Built. Lit. *Ready to try.*" at={4.8} size={76} />
       </Stage>
     </Block>
@@ -183,7 +183,8 @@ export const VisitShowroom: React.FC = () => (
           <Say text="Bring your partner." at={18.9} size={70} />
           <Say text="Bring your *plot questions*." at={19.9} size={70} />
           <div style={{height: 16}} />
-          <A.Chip text="40 min · no obligation" at={22.0} gold />
+          <A.Chip text="Stay as long as you need" at={22.0} gold />
+          <A.Eyebrow text="No obligation" at={22.4} />
         </Stage>
       </Block>
     </Block>
@@ -203,98 +204,97 @@ export const VisitShowroom: React.FC = () => (
   </Frame>
 );
 
-/* ---------- N4 · What's hidden in the walls ---------- */
+/* ---------- N4 · What's hidden in the walls (v2: no people, cinematic bed) ---------- */
 const n4Shots: Shot[] = [
-  {src: 'media/b_2008.mp4', dur: 3.2, zoom: 1.12},
-  {src: 'media/b_frame.mp4', dur: 3.0},
-  {src: 'media/b_under.mp4', dur: 2.0},
-  {src: 'media/b_8861.mp4', dur: 1.75, dim: 0.35},
-  {src: 'media/b_frame.mp4', dur: 3.5, trim: 0, dim: 0.6, blur: 6},
-  {src: 'media/b_8803.mp4', dur: 1.75, dim: 0.35},
-  {src: 'media/b_8809.mp4', dur: 3.5},
-  {src: 'media/b_1901.mp4', dur: 3.0},
-  {src: 'media/b_8844.mp4', dur: 3.5},
-  {src: 'media/b_1952.mp4', dur: 3.0},
-  {src: 'media/b_8802.mp4', dur: 5.0},
+  {src: 'media/b_8862.mp4', dur: 3.2, zoom: 1.1},
+  {src: 'media/b_9412.mp4', dur: 3.0},
+  {src: 'media/b_1907.mp4', dur: 2.0},
+  {src: 'media/b_8820.mp4', dur: 4.5, dim: 0.55},
+  {src: 'media/b_8803.mp4', dur: 2.5, dim: 0.55},
+  {src: 'media/b_8839.mp4', dur: 3.5},
+  {src: 'media/b_8819.mp4', dur: 2.5},
+  {src: 'media/b_8851.mp4', dur: 4.0},
+  {src: 'media/b_8836.mp4', dur: 3.0},
+  {src: 'media/b_1910.mp4', dur: 2.5},
+  {src: 'media/b_8853.mp4', dur: 2.6, trim: 2.0},
 ];
 export const n4Duration = f(shotsDuration(n4Shots) + OUTRO);
 
 const stripes = (c: string) => `repeating-linear-gradient(90deg, ${c} 0 3px, transparent 3px 14px)`;
 
 export const InsideTheWalls: React.FC = () => (
-  <Frame shots={n4Shots} music="music/ambient_bed.wav" volume={0.4} cta="Comment WOOD">
+  <Frame shots={n4Shots} music="music/n4_cinematic.wav" volume={0.55} cta="Comment WOOD">
     <Block from={0} to={3.2} name="Hook: knock">
-      <TopShade strength={0.75} />
+      <TopShade strength={0.7} />
       <Stage top={280}>
         <A.Hero text="What you don't see" at={0.9} size={100} />
         <A.Script text="costs the most." at={1.8} size={140} />
       </Stage>
     </Block>
-    <Block from={3.2} to={8.2} name="Inside the wall">
+    <Block from={3.2} to={8.2} name="Workshop">
       <Shade strength={0.7} />
-      <Stage top={1060}>
+      <Stage top={1080}>
         <A.Eyebrow text="Inside the wall" at={3.3} color={colors.gold} />
-        <Say text="A PODERA wall *before it's closed*." at={3.9} size={70} />
+        <Say text="Every PODERA wall is built *in our workshop*." at={3.8} size={66} />
       </Stage>
     </Block>
     <Block from={8.2} to={15.2} name="Layers">
-      <Shade strength={0.85} />
-      <Stage top={960}>
+      <Shade strength={0.6} />
+      <Stage top={760}>
         <A.Eyebrow text="Outside → in" at={8.25} color={colors.gold} />
         <LayerStack
           layers={[
-            {label: 'Exterior cladding', at: 8.3, color: '#7D6A55', pattern: stripes('rgba(0,0,0,.25)')},
+            {label: 'Exterior cladding', at: 8.4, color: '#7D6A55', pattern: stripes('rgba(0,0,0,.25)')},
             {
               label: 'Insulation',
-              at: 9.95,
+              at: 10.0,
               color: '#D9C27A',
               pattern: 'repeating-linear-gradient(45deg, rgba(0,0,0,.18) 0 4px, transparent 4px 12px)',
             },
-            {label: 'Vapour barrier', at: 11.7, color: '#B9BCC0', pattern: 'linear-gradient(135deg,#8d9196,#e6e8ea,#8d9196)'},
-            {label: 'Cedar lining', at: 13.45, color: '#B06A3B', pattern: stripes('rgba(0,0,0,.2)')},
+            {label: 'Vapour barrier', at: 11.6, color: '#B9BCC0', pattern: 'linear-gradient(135deg,#8d9196,#e6e8ea,#8d9196)'},
+            {label: 'Cedar lining', at: 13.2, color: '#B06A3B', pattern: stripes('rgba(0,0,0,.2)')},
           ]}
         />
       </Stage>
     </Block>
-    <Block from={15.2} to={18.7} name="SAWO">
-      <Shade strength={0.65} />
-      <Stage top={1080}>
-        <A.Glass at={15.4}>
-          <A.Eyebrow text="Heater" at={15.4} color={colors.goldLight} />
-          <A.Serif text="SAWO · 12–18 kW" at={15.6} size={96} />
+    <Block from={15.2} to={21.2} name="SAWO">
+      <Shade strength={0.6} />
+      <Stage top={1160}>
+        <A.Glass at={15.5}>
+          <A.Eyebrow text="Heater" at={15.5} color={colors.goldLight} />
+          <A.Serif text="SAWO · 12–18 kW" at={15.7} size={96} />
         </A.Glass>
       </Stage>
     </Block>
-    <Block from={18.7} to={21.7} name="Ventilation">
+    <Block from={21.2} to={25.2} name="Door">
       <Shade strength={0.6} />
-      <Stage top={1200}>
-        <Say text="Ventilation, *built in*." at={18.9} size={74} />
+      <Stage top={1180}>
+        <Say text="A glass door that *keeps the heat in*." at={21.5} size={66} />
       </Stage>
     </Block>
-    <Block from={21.7} to={25.2} name="Door">
-      <Shade strength={0.6} />
-      <Stage top={1160}>
-        <Say text="A glass door that *keeps the heat in*." at={21.9} size={66} />
-      </Stage>
-    </Block>
-    <Block from={25.2} to={33.2} name="Feel them">
-      <Shade strength={0.7} />
-      <Stage top={1000}>
+    <Block from={25.2} to={30.7} name="Feel them">
+      <Shade strength={0.65} />
+      <Stage top={1060}>
         <Say text="You'll never see these layers." at={25.4} size={62} />
-        <Say text="You'll *feel them* every session." at={27.0} size={62} />
-        <div style={{height: 24}} />
-        <A.Gold text="Comment WOOD" at={29.6} size={96} />
+        <Say text="You'll *feel them* every session." at={27.2} size={62} />
+      </Stage>
+    </Block>
+    <Block from={30.7} to={33.3} name="CTA">
+      <Shade strength={0.6} />
+      <Stage top={1140}>
+        <A.Gold text="Comment WOOD" at={30.8} size={100} />
+        <Say text="for our materials guide" at={31.4} size={46} />
       </Stage>
     </Block>
     <Sfx name="knock" at={0.15} />
     <Sfx name="knock" at={0.42} />
     <Sfx name="knock" at={0.68} />
     <Sfx name="shimmer" at={1.8} />
-    <Sfx name="whoosh" at={3.3} volume={0.6} />
-    {[8.3, 9.95, 11.7, 13.45].map((t) => (
+    {[8.4, 10.0, 11.6, 13.2].map((t) => (
       <Sfx key={t} name="click" at={t} />
     ))}
-    <Sfx name="pop" at={15.6} />
-    <Sfx name="whoosh" at={29.6} volume={0.7} />
+    <Sfx name="pop" at={15.7} />
+    <Sfx name="steam" at={18.7} volume={0.8} />
+    <Sfx name="whoosh" at={30.8} volume={0.7} />
   </Frame>
 );
