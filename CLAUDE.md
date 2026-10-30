@@ -11,6 +11,8 @@ Portable Finnish saunas, Thailand (Pattaya & Phuket). Content work lives in `bra
 - No prices in content. No medical claims.
 
 ## Editing rules
+- Fonts: Inter (display/body), **Allura** (script accent, replaces Tempting), Instrument Serif (numbers/editorial).
+- **Talking-head videos** → animations, graphics, captions. **All other videos (product/B-roll) → minimalist**: one short line per shot, no cards/checklists/diagrams, calm 3–5 s shots, logo + one-line CTA. See `brand/DESIGN_SYSTEM.md` §13.
 - Follow `brand/DESIGN_SYSTEM.md` and `brand/PODERA_EDITING_STYLE.md`.
 - Music must be copyright-free (own compositions in `video/public/music` or explicitly free libraries).
 - Owner does not want Yasha on camera unless the brief asks for him.

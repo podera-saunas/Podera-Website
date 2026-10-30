@@ -6,7 +6,7 @@ import '@fontsource/inter/800.css';
 import '@fontsource/inter/900.css';
 import '@fontsource/instrument-serif/400.css';
 import '@fontsource/instrument-serif/400-italic.css';
-// Temporary stand-in for Tempting until the licensed font file is supplied
+// Script accent font (approved by owner; replaces Tempting)
 import '@fontsource/allura/400.css';
 import {continueRender, delayRender} from 'remotion';
 
