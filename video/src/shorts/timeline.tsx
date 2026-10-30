@@ -288,3 +288,50 @@ export const TopShade: React.FC<{strength?: number}> = ({strength = 0.7}) => (
     style={{background: `linear-gradient(180deg, rgba(20,20,20,${strength}) 0%, rgba(20,20,20,0) 45%)`}}
   />
 );
+
+// Minimalist line for product videos: slow fade in, hold, fade out before the cut
+export const MinLine: React.FC<{
+  text: string;
+  at: number;
+  until: number;
+  size?: number;
+  font?: 'sans' | 'script';
+  color?: string;
+  top?: number;
+}> = ({text, at, until, size = 58, font = 'sans', color = colors.cream, top = 1330}) => {
+  const frame = useCurrentFrame();
+  const t = frame / FPS + useT();
+  const o = interpolate(t, [at, at + 0.6, until - 0.5, until], [0, 1, 1, 0], {
+    extrapolateLeft: 'clamp',
+    extrapolateRight: 'clamp',
+  });
+  return (
+    <div
+      style={{
+        position: 'absolute',
+        left: 96,
+        right: 96,
+        top,
+        textAlign: 'center',
+        fontFamily: font === 'script' ? fonts.script : fonts.sans,
+        fontWeight: font === 'script' ? 400 : 600,
+        fontSize: size,
+        letterSpacing: font === 'script' ? 0 : '-0.01em',
+        lineHeight: 1.1,
+        color,
+        opacity: o,
+        transform: `translateY(${(1 - o) * 10}px)`,
+        textShadow: '0 2px 24px rgba(0,0,0,.55)',
+      }}
+    >
+      {text}
+    </div>
+  );
+};
+
+// Soft floor gradient so a single minimalist line reads on bright footage
+export const SoftFloor: React.FC = () => (
+  <AbsoluteFill
+    style={{background: 'linear-gradient(180deg, rgba(20,20,20,0) 55%, rgba(20,20,20,.55) 85%, rgba(20,20,20,.7) 100%)'}}
+  />
+);

@@ -3,14 +3,13 @@ import React from 'react';
 import {AbsoluteFill, Sequence} from 'remotion';
 import {colors} from './brand';
 import {LogoOutro} from './LogoOutro';
-import {Shade, Stage, Steam, Vignette} from './motion';
+import {Receipt3D} from './receipt3d';
+import {Shade, Stage, Vignette} from './motion';
 import {
   A,
   Block,
   f,
-  LayerStack,
   Music,
-  Receipt,
   Say,
   Sfx,
   Shot,
@@ -18,6 +17,8 @@ import {
   shotsDuration,
   TopShade,
   TypeLine,
+  MinLine,
+  SoftFloor,
 } from './timeline';
 
 const OUTRO = 2.6;
@@ -55,16 +56,14 @@ const n2Shots: Shot[] = [
 export const n2Duration = f(shotsDuration(n2Shots) + OUTRO);
 
 export const SpaVsSauna: React.FC = () => (
-  <Frame shots={n2Shots} music="music/n2_bed.wav" volume={0.45} cta="Comment PRICE">
+  <Frame shots={n2Shots} music="music/n2_energizing.wav" volume={0.6} cta="Comment PRICE">
     <Block from={0} to={3.2} name="Hook: receipt">
       <TopShade strength={0.75} />
       <Stage top={250}>
         <A.Hero text="3 years of spa" at={0.15} size={110} />
         <A.Serif text="= ?" at={0.6} size={150} color={colors.gold} />
       </Stage>
-      <div style={{position: 'absolute', left: 240, top: 860}}>
-        <Receipt at={0.3} lines={['2 people', '2 visits a week', '3 years']} total="?" />
-      </div>
+      <Receipt3D at={0.25} total="?" />
     </Block>
     <Block from={3.2} to={8.2} name="The maths">
       <Shade strength={0.7} />
@@ -123,178 +122,61 @@ export const SpaVsSauna: React.FC = () => (
   </Frame>
 );
 
-/* ---------- N3 · A finished sauna is waiting for you ---------- */
+/* ---------- N3 · Don't buy a sauna from photos (minimalist) ---------- */
 const n3Shots: Shot[] = [
-  {src: 'media/b_1881.mp4', dur: 3.5},
-  {src: 'media/b_8848.mp4', dur: 5.0},
-  {src: 'media/b_1952.mp4', dur: 3.0},
-  {src: 'media/b_8797.mp4', dur: 1.8},
-  {src: 'media/b_8803.mp4', dur: 2.2},
-  {src: 'media/b_8839.mp4', dur: 3.2},
-  {src: 'media/b_8801.mp4', dur: 4.0},
-  {src: 'media/b_8818.mp4', dur: 2.8, trim: 0.5},
-  {src: 'media/b_8844.mp4', dur: 3.0},
+  {src: 'media/b_1881.mp4', dur: 3.8, zoom: 1.02},
+  {src: 'media/b_8848.mp4', dur: 5.0, zoom: 1.02},
+  {src: 'media/b_1952.mp4', dur: 3.5, zoom: 1.02},
+  {src: 'media/b_8803.mp4', dur: 3.5, zoom: 1.02},
+  {src: 'media/b_8839.mp4', dur: 4.0, zoom: 1.02},
+  {src: 'media/b_8801.mp4', dur: 4.5, zoom: 1.02},
+  {src: 'media/b_8844.mp4', dur: 4.0, zoom: 1.02},
 ];
 export const n3Duration = f(shotsDuration(n3Shots) + OUTRO);
 
 export const VisitShowroom: React.FC = () => (
-  <Frame shots={n3Shots} music="music/ambient_bed.wav" volume={0.4} cta="Comment VISIT">
-    <Block from={0} to={3.5} name="Hook">
-      <TopShade strength={0.75} />
-      <Stage top={280}>
-        <A.Hero text="Don't buy a sauna" at={0.3} size={104} />
-        <A.Script text="from photos." at={1.2} size={150} />
-      </Stage>
-    </Block>
-    <Block from={3.5} to={8.5} name="Finished PODERA">
-      <Shade strength={0.65} />
-      <Stage top={1060}>
-        <A.Eyebrow text="Finished PODERA · Pattaya & Phuket" at={3.7} color={colors.gold} />
-        <Say text="Built. Lit. *Ready to try.*" at={4.8} size={76} />
-      </Stage>
-    </Block>
-    <Block from={8.5} to={15.5} name="Touch it">
-      <TopShade strength={0.6} />
-      <Stage top={280}>
-        <A.Eyebrow text="Touch it. Sit in it." at={8.6} color={colors.gold} />
-      </Stage>
-      <Shade strength={0.55} />
-      <Block from={8.5} to={11.5} name="bench">
-        <Stage top={1180}>
-          <Say text="Check the *bench height*." at={8.8} size={72} />
-        </Stage>
-      </Block>
-      <Block from={11.5} to={13.3} name="handle">
-        <Stage top={1180}>
-          <Say text="Feel the *details*." at={11.6} size={72} />
-        </Stage>
-      </Block>
-      <Block from={13.3} to={15.5} name="wood">
-        <Stage top={1180}>
-          <Say text="Touch the *wood*." at={13.4} size={72} />
-        </Stage>
-      </Block>
-    </Block>
-    <Block from={15.5} to={25.5} name="Bring your partner">
-      <Steam start={0.1} dur={1.8} />
-      <Block from={18.7} to={25.5} name="partner text">
-        <Shade strength={0.65} />
-        <Stage top={1000}>
-          <Say text="Bring your partner." at={18.9} size={70} />
-          <Say text="Bring your *plot questions*." at={19.9} size={70} />
-          <div style={{height: 16}} />
-          <A.Chip text="Stay as long as you need" at={22.0} gold />
-          <A.Eyebrow text="No obligation" at={22.4} />
-        </Stage>
-      </Block>
-    </Block>
-    <Block from={25.5} to={28.5} name="CTA">
-      <Shade strength={0.6} />
-      <Stage top={1080}>
-        <A.Gold text="Comment VISIT" at={25.8} size={100} />
-        <Say text="We'll send the location and free times." at={26.6} size={46} />
-      </Stage>
-    </Block>
-    <Sfx name="whoosh" at={0.3} volume={0.6} />
-    <Sfx name="shimmer" at={1.2} />
-    <Sfx name="steam" at={15.5} volume={1.4} />
-    <Sfx name="steam" at={16.6} volume={1.0} />
-    <Sfx name="pop" at={22.0} />
-    <Sfx name="whoosh" at={25.8} volume={0.7} />
+  <Frame shots={n3Shots} music="music/n3_walking_away.wav" volume={0.55} cta="Comment VISIT">
+    <SoftFloor />
+    <MinLine text="Don't buy a sauna" at={0.4} until={3.8} size={64} top={1270} />
+    <MinLine text="from photos." at={1.2} until={3.8} size={120} font="script" color={colors.gold} top={1340} />
+    <MinLine text="Pattaya · Phuket" at={4.2} until={8.8} size={34} color={colors.gold} top={1290} />
+    <MinLine text="Come and sit in one." at={4.8} until={8.8} size={58} top={1350} />
+    <MinLine text="Touch the wood." at={9.2} until={15.8} size={58} />
+    <MinLine text="Feel the heat." at={16.2} until={19.8} size={58} />
+    <MinLine text="Stay as long as you need." at={20.2} until={24.3} size={58} />
+    <MinLine text="Comment VISIT" at={24.7} until={28.3} size={64} color={colors.gold} />
   </Frame>
 );
 
-/* ---------- N4 · What's hidden in the walls (v2: no people, cinematic bed) ---------- */
+/* ---------- N4 · What's hidden in the walls (minimalist, no people) ---------- */
 const n4Shots: Shot[] = [
-  {src: 'media/b_8862.mp4', dur: 3.2, zoom: 1.1},
-  {src: 'media/b_9412.mp4', dur: 3.0},
-  {src: 'media/b_1907.mp4', dur: 2.0},
-  {src: 'media/b_8820.mp4', dur: 4.5, dim: 0.55},
-  {src: 'media/b_8803.mp4', dur: 2.5, dim: 0.55},
-  {src: 'media/b_8839.mp4', dur: 3.5},
-  {src: 'media/b_8819.mp4', dur: 2.5},
-  {src: 'media/b_8851.mp4', dur: 4.0},
-  {src: 'media/b_8836.mp4', dur: 3.0},
-  {src: 'media/b_1910.mp4', dur: 2.5},
-  {src: 'media/b_8853.mp4', dur: 2.6, trim: 2.0},
+  {src: 'media/b_8862.mp4', dur: 4.0, zoom: 1.06},
+  {src: 'media/b_9412.mp4', dur: 3.5, zoom: 1.02},
+  {src: 'media/b_8861.mp4', dur: 3.0, zoom: 1.02},
+  {src: 'media/b_8820.mp4', dur: 3.0, zoom: 1.02},
+  {src: 'media/b_8803.mp4', dur: 3.0, zoom: 1.02},
+  {src: 'media/b_8839.mp4', dur: 4.0, zoom: 1.02},
+  {src: 'media/b_8851.mp4', dur: 4.0, zoom: 1.02},
+  {src: 'media/b_8836.mp4', dur: 3.5, zoom: 1.02},
+  {src: 'media/b_8853.mp4', dur: 4.0, trim: 1.6, zoom: 1.02},
 ];
 export const n4Duration = f(shotsDuration(n4Shots) + OUTRO);
 
-const stripes = (c: string) => `repeating-linear-gradient(90deg, ${c} 0 3px, transparent 3px 14px)`;
-
 export const InsideTheWalls: React.FC = () => (
-  <Frame shots={n4Shots} music="music/n4_cinematic.wav" volume={0.55} cta="Comment WOOD">
-    <Block from={0} to={3.2} name="Hook: knock">
-      <TopShade strength={0.7} />
-      <Stage top={280}>
-        <A.Hero text="What you don't see" at={0.9} size={100} />
-        <A.Script text="costs the most." at={1.8} size={140} />
-      </Stage>
-    </Block>
-    <Block from={3.2} to={8.2} name="Workshop">
-      <Shade strength={0.7} />
-      <Stage top={1080}>
-        <A.Eyebrow text="Inside the wall" at={3.3} color={colors.gold} />
-        <Say text="Every PODERA wall is built *in our workshop*." at={3.8} size={66} />
-      </Stage>
-    </Block>
-    <Block from={8.2} to={15.2} name="Layers">
-      <Shade strength={0.6} />
-      <Stage top={760}>
-        <A.Eyebrow text="Outside → in" at={8.25} color={colors.gold} />
-        <LayerStack
-          layers={[
-            {label: 'Exterior cladding', at: 8.4, color: '#7D6A55', pattern: stripes('rgba(0,0,0,.25)')},
-            {
-              label: 'Insulation',
-              at: 10.0,
-              color: '#D9C27A',
-              pattern: 'repeating-linear-gradient(45deg, rgba(0,0,0,.18) 0 4px, transparent 4px 12px)',
-            },
-            {label: 'Vapour barrier', at: 11.6, color: '#B9BCC0', pattern: 'linear-gradient(135deg,#8d9196,#e6e8ea,#8d9196)'},
-            {label: 'Cedar lining', at: 13.2, color: '#B06A3B', pattern: stripes('rgba(0,0,0,.2)')},
-          ]}
-        />
-      </Stage>
-    </Block>
-    <Block from={15.2} to={21.2} name="SAWO">
-      <Shade strength={0.6} />
-      <Stage top={1160}>
-        <A.Glass at={15.5}>
-          <A.Eyebrow text="Heater · PODERA 2.5×4" at={15.5} color={colors.goldLight} />
-          <A.Serif text="SAWO · 12 kW" at={15.7} size={110} />
-        </A.Glass>
-      </Stage>
-    </Block>
-    <Block from={21.2} to={25.2} name="Door">
-      <Shade strength={0.6} />
-      <Stage top={1180}>
-        <Say text="A glass door that *keeps the heat in*." at={21.5} size={66} />
-      </Stage>
-    </Block>
-    <Block from={25.2} to={30.7} name="Feel them">
-      <Shade strength={0.65} />
-      <Stage top={1060}>
-        <Say text="You'll never see these layers." at={25.4} size={62} />
-        <Say text="You'll *feel them* every session." at={27.2} size={62} />
-      </Stage>
-    </Block>
-    <Block from={30.7} to={33.3} name="CTA">
-      <Shade strength={0.6} />
-      <Stage top={1140}>
-        <A.Gold text="Comment WOOD" at={30.8} size={100} />
-        <Say text="for our materials guide" at={31.4} size={46} />
-      </Stage>
-    </Block>
-    <Sfx name="knock" at={0.15} />
-    <Sfx name="knock" at={0.42} />
-    <Sfx name="knock" at={0.68} />
-    <Sfx name="shimmer" at={1.8} />
-    {[8.4, 10.0, 11.6, 13.2].map((t) => (
-      <Sfx key={t} name="click" at={t} />
-    ))}
-    <Sfx name="pop" at={15.7} />
-    <Sfx name="steam" at={18.7} volume={0.8} />
-    <Sfx name="whoosh" at={30.8} volume={0.7} />
+  <Frame shots={n4Shots} music="music/n4_big_eyes.wav" volume={0.6} cta="Comment WOOD">
+    <SoftFloor />
+    <MinLine text="What you don't see" at={0.8} until={4.0} size={64} top={1270} />
+    <MinLine text="costs the most." at={1.6} until={4.0} size={120} font="script" color={colors.gold} top={1340} />
+    <MinLine text="Built in our workshop." at={4.4} until={7.5} />
+    <MinLine text="Cladding." at={7.8} until={10.5} />
+    <MinLine text="Insulation." at={10.8} until={13.5} />
+    <MinLine text="Cedar inside." at={13.8} until={16.5} />
+    <MinLine text="SAWO · 12 kW" at={16.8} until={20.5} />
+    <MinLine text="The heat stays in." at={20.8} until={24.5} />
+    <MinLine text="You'll never see these layers." at={25.0} until={28.0} size={52} />
+    <MinLine text="You'll feel them." at={28.4} until={32.0} size={120} font="script" color={colors.gold} top={1310} />
+    <Sfx name="knock" at={0.15} volume={0.8} />
+    <Sfx name="knock" at={0.42} volume={0.8} />
+    <Sfx name="knock" at={0.68} volume={0.8} />
   </Frame>
 );
