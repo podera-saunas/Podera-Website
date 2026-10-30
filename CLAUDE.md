@@ -14,3 +14,8 @@ Portable Finnish saunas, Thailand (Pattaya & Phuket). Content work lives in `bra
 - Follow `brand/DESIGN_SYSTEM.md` and `brand/PODERA_EDITING_STYLE.md`.
 - Music must be copyright-free (own compositions in `video/public/music` or explicitly free libraries).
 - Owner does not want Yasha on camera unless the brief asks for him.
+
+## Video tools
+- **Remotion** project: `video/` (skills `remotion-*`).
+- **HyperFrames** project: `hyperframes/` (skills `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use`, …). GSAP and brand fonts are vendored in `hyperframes/assets/` because the cloud environment blocks public CDNs.
+- In the cloud environment, set `PRODUCER_HEADLESS_SHELL_PATH=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell` before `npx hyperframes check|render` (no Chrome download possible).
