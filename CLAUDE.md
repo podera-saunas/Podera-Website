@@ -21,3 +21,8 @@ Portable Finnish saunas, Thailand (Pattaya & Phuket). Content work lives in `bra
 - **Remotion** project: `video/` (skills `remotion-*`).
 - **HyperFrames** project: `hyperframes/` (skills `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use`, …). GSAP and brand fonts are vendored in `hyperframes/assets/` because the cloud environment blocks public CDNs.
 - In the cloud environment, set `PRODUCER_HEADLESS_SHELL_PATH=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell` before `npx hyperframes check|render` (no Chrome download possible).
+
+## Instagram skills
+- `ig-*` skills (reel, caption, carousel, story, plan, profile, viral, audit, comment, reply, dm, repurpose, human) are installed in `.claude/skills/`.
+- They read `~/.claude/instagram/voice.md`: copy `brand/instagram/voice.md` there at session start (`mkdir -p ~/.claude/instagram && cp brand/instagram/voice.md ~/.claude/instagram/`).
+- Skills only draft. Nothing is posted without the owner's explicit yes.
