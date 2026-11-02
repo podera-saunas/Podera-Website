@@ -16,6 +16,7 @@ Portable Finnish saunas, Thailand (Pattaya & Phuket). Content work lives in `bra
 - Follow `brand/DESIGN_SYSTEM.md` and `brand/PODERA_EDITING_STYLE.md`.
 - Music must be copyright-free (own compositions in `video/public/music` or explicitly free libraries).
 - Owner does not want Yasha on camera unless the brief asks for him.
+- No 3D extruded logo (owner: looks cheap). Outro = flat gold PODERA + Allura slogan (`LogoOutro`).
 
 ## Video tools
 - Full list of installed tools (3D, Lottie, FX blocks, LUTs, CC0 SFX/music): `brand/TOOLKIT.md`.

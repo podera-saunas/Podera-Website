@@ -5,7 +5,7 @@
 | Edit engine | Remotion 4.0.539 | `video/` | skills `remotion-*` |
 | Edit engine | HyperFrames 0.8.221 | `hyperframes/` | skills `hyperframes*`, `media-use`; GSAP + three.js vendored |
 | 3D | `@remotion/three`, `three`, `@react-three/fiber`, `@react-three/drei` | `video/` | real 3D scenes, objects, text |
-| 3D logo | HyperFrames `extruded-logo` block | `hyperframes/compositions/` | gold beveled PODERA, tested |
+| 3D logo | HyperFrames `extruded-logo` block | `hyperframes/compositions/` | tested, **rejected by owner (looks cheap)** — use the flat gold LogoOutro |
 | Lottie | `@remotion/lottie`, `lottie-web` | `video/` | needs JSON files (lottiefiles.com blocked in cloud) |
 | FX | `@remotion/light-leaks`, `motion-blur`, `noise`, `shapes`, `transitions` | `video/` | light leaks, motion blur, grain |
 | FX blocks | 22 HyperFrames blocks | `hyperframes/compositions/` | light-leak, organic-light-leak-overlay, thermal-distortion (heat haze), cinematic-zoom, flash-through-white, logo-outro, extruded-logo, godrays, rack-focus, camera-dolly-zoom, mk-progress-stat, mk-callout-highlight, lower thirds, transitions, captions (editorial-emphasis, weight-shift, clip-wipe, parallax-layers), count-up |

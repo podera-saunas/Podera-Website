@@ -4,6 +4,8 @@ import {AbsoluteFill, Sequence} from 'remotion';
 import {colors} from './brand';
 import {LogoOutro} from './LogoOutro';
 import {Receipt3D} from './receipt3d';
+import {Grain} from './fx';
+import {LightLeak} from '@remotion/light-leaks';
 import {Shade, Stage, Vignette} from './motion';
 import {
   A,
@@ -148,22 +150,39 @@ export const VisitShowroom: React.FC = () => (
   </Frame>
 );
 
-/* ---------- N4 · What's hidden in the walls (minimalist, no people) ---------- */
+/* ---------- N4 · What's hidden in the walls (minimalist v3: LUT grade, real SFX, grain, light leaks, 3D logo) ---------- */
 const n4Shots: Shot[] = [
-  {src: 'media/b_8862.mp4', dur: 4.0, zoom: 1.06},
-  {src: 'media/b_9412.mp4', dur: 3.5, zoom: 1.02},
-  {src: 'media/b_8861.mp4', dur: 3.0, zoom: 1.02},
-  {src: 'media/b_8820.mp4', dur: 3.0, zoom: 1.02},
-  {src: 'media/b_8803.mp4', dur: 3.0, zoom: 1.02},
-  {src: 'media/b_8839.mp4', dur: 4.0, zoom: 1.02},
-  {src: 'media/b_8851.mp4', dur: 4.0, zoom: 1.02},
-  {src: 'media/b_8836.mp4', dur: 3.5, zoom: 1.02},
-  {src: 'media/b_8853.mp4', dur: 4.0, trim: 1.6, zoom: 1.02},
+  {src: 'media/g_8862.mp4', dur: 4.0, zoom: 1.06},
+  {src: 'media/g_9412.mp4', dur: 3.5, zoom: 1.02},
+  {src: 'media/g_8861.mp4', dur: 3.0, zoom: 1.02},
+  {src: 'media/g_8820.mp4', dur: 3.0, zoom: 1.02},
+  {src: 'media/g_8803.mp4', dur: 3.0, zoom: 1.02},
+  {src: 'media/g_8839.mp4', dur: 4.0, zoom: 1.02},
+  {src: 'media/g_8851.mp4', dur: 4.0, zoom: 1.02},
+  {src: 'media/g_8836.mp4', dur: 3.5, zoom: 1.02},
+  {src: 'media/g_8853.mp4', dur: 4.0, trim: 1.6, zoom: 1.02},
 ];
-export const n4Duration = f(shotsDuration(n4Shots) + OUTRO);
+const N4_OUTRO = 3.4;
+export const n4Duration = f(shotsDuration(n4Shots) + N4_OUTRO);
+
+// Light leaks only on the three emotional turns (workshop, heat, payoff)
+const n4Leaks: {at: number; seed: number}[] = [
+  {at: 3.6, seed: 3},
+  {at: 16.1, seed: 7},
+  {at: 27.6, seed: 11},
+];
 
 export const InsideTheWalls: React.FC = () => (
-  <Frame shots={n4Shots} music="music/n4_big_eyes.wav" volume={0.6} cta="Comment WOOD">
+  <AbsoluteFill style={{backgroundColor: colors.black}}>
+    <Shots shots={n4Shots} />
+    <Vignette />
+    {n4Leaks.map((l) => (
+      <Sequence key={l.at} from={f(l.at)} durationInFrames={24} name={`Light leak ${l.at}s`}>
+        <AbsoluteFill style={{mixBlendMode: 'screen', opacity: 0.32}}>
+          <LightLeak seed={l.seed} hueShift={0} />
+        </AbsoluteFill>
+      </Sequence>
+    ))}
     <SoftFloor />
     <MinLine text="What you don't see" at={0.8} until={4.0} size={64} top={1270} />
     <MinLine text="costs the most." at={1.6} until={4.0} size={120} font="script" color={colors.gold} top={1340} />
@@ -175,8 +194,16 @@ export const InsideTheWalls: React.FC = () => (
     <MinLine text="The heat stays in." at={20.8} until={24.5} />
     <MinLine text="You'll never see these layers." at={25.0} until={28.0} size={52} />
     <MinLine text="You'll feel them." at={28.4} until={32.0} size={120} font="script" color={colors.gold} top={1310} />
-    <Sfx name="knock" at={0.15} volume={0.8} />
-    <Sfx name="knock" at={0.42} volume={0.8} />
-    <Sfx name="knock" at={0.68} volume={0.8} />
-  </Frame>
+    <Sequence from={f(shotsDuration(n4Shots))} durationInFrames={f(N4_OUTRO)} name="3D logo outro">
+      <LogoOutro cta="Comment WOOD" />
+    </Sequence>
+    <Grain opacity={0.06} />
+    <Music src="music/n4_big_eyes.wav" volume={0.6} />
+    {/* Recorded CC0 foley (Kenney impact pack) instead of synthesized knocks */}
+    <Sfx name="lib/impact/impactwood_light_000" at={0.15} volume={0.9} />
+    <Sfx name="lib/impact/impactwood_light_001" at={0.42} volume={0.9} />
+    <Sfx name="lib/impact/impactwood_light_002" at={0.68} volume={0.9} />
+    <Sfx name="lib/whoosh/gentle_swish" at={1.5} volume={0.35} />
+    <Sfx name="lib/whoosh/gentle_swish" at={27.5} volume={0.3} />
+  </AbsoluteFill>
 );
