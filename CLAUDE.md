@@ -18,6 +18,7 @@ Portable Finnish saunas, Thailand (Pattaya & Phuket). Content work lives in `bra
 - Owner does not want Yasha on camera unless the brief asks for him.
 
 ## Video tools
+- Full list of installed tools (3D, Lottie, FX blocks, LUTs, CC0 SFX/music): `brand/TOOLKIT.md`.
 - **Remotion** project: `video/` (skills `remotion-*`).
 - **HyperFrames** project: `hyperframes/` (skills `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use`, …). GSAP and brand fonts are vendored in `hyperframes/assets/` because the cloud environment blocks public CDNs.
 - In the cloud environment, set `PRODUCER_HEADLESS_SHELL_PATH=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell` before `npx hyperframes check|render` (no Chrome download possible).
