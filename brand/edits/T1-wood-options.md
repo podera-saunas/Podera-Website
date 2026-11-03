@@ -17,3 +17,8 @@
 | 1:01–1:03 | — | Steam → PODERA · *Your escape, every day* · Comment your pick |
 
 **To confirm:** the speaker names the woods **Pine, Mixed Abachi, Canadian Cedar**; brand facts list *Canadian Cedar, Thermo Abachi, Abachi*. Pine/Abachi swatches are tone illustrations, not product photos.
+
+## v2 (after owner feedback)
+- Music much quieter (≈ -20 dB under voice); PIP bubble removed; orbit/flip/poll pills replaced by an editorial system: masked reveals, gold hairlines, lower-third serif titles.
+- Inserts are full-bleed PODERA footage: hook split screen (same frame, two moods), triptych Pine / Mixed Abachi / Cedar, Pine (light wall, pale grade), Mixed Abachi (herringbone), "Come and feel it" (night exterior walk-up).
+- Stock/Pinterest photos could not be fetched (all photo hosts blocked in the cloud env; Shorty has 0 credits). Pine/Abachi shots are tonal stand-ins from our footage — replace with real sample photos when supplied.

@@ -16,6 +16,8 @@ Portable Finnish saunas, Thailand (Pattaya & Phuket). Content work lives in `bra
 - Follow `brand/DESIGN_SYSTEM.md` and `brand/PODERA_EDITING_STYLE.md`.
 - Music must be copyright-free (own compositions in `video/public/music` or explicitly free libraries).
 - Owner does not want Yasha on camera unless the brief asks for him.
+- Talking-head graphics style = **editorial**: full-bleed B-roll inserts, masked type reveals (Inter + Instrument Serif italic), thin gold rules, lower-third titles. **Avoid** (owner: "looks childish"): orbiting/flipping cards, PIP circle bubbles, pill-style polls, bouncy pops.
+- Music under voice must be very quiet (~20 dB below speech).
 - No 3D extruded logo (owner: looks cheap). Outro = flat gold PODERA + Allura slogan (`LogoOutro`).
 
 ## Video tools
