@@ -1,0 +1,1009 @@
+[
+ {
+  "id": "a",
+  "src": "media/w_a.mp4",
+  "duration": 6.4,
+  "words": [
+   {
+    "text": "Did",
+    "start": 0.05,
+    "end": 0.26
+   },
+   {
+    "text": "you",
+    "start": 0.26,
+    "end": 0.38
+   },
+   {
+    "text": "know",
+    "start": 0.38,
+    "end": 0.52
+   },
+   {
+    "text": "that",
+    "start": 0.52,
+    "end": 0.76
+   },
+   {
+    "text": "two",
+    "start": 0.76,
+    "end": 1.1
+   },
+   {
+    "text": "completely",
+    "start": 1.1,
+    "end": 1.44
+   },
+   {
+    "text": "identical",
+    "start": 1.44,
+    "end": 1.94
+   },
+   {
+    "text": "saunas",
+    "start": 1.94,
+    "end": 2.54
+   },
+   {
+    "text": "can",
+    "start": 2.54,
+    "end": 2.72
+   },
+   {
+    "text": "feel",
+    "start": 2.72,
+    "end": 2.92
+   },
+   {
+    "text": "entirely",
+    "start": 2.92,
+    "end": 3.46
+   },
+   {
+    "text": "different",
+    "start": 3.46,
+    "end": 3.94
+   },
+   {
+    "text": "just",
+    "start": 3.94,
+    "end": 4.64
+   },
+   {
+    "text": "because",
+    "start": 4.64,
+    "end": 4.92
+   },
+   {
+    "text": "of",
+    "start": 4.92,
+    "end": 5.12
+   },
+   {
+    "text": "the",
+    "start": 5.12,
+    "end": 5.2
+   },
+   {
+    "text": "wood",
+    "start": 5.2,
+    "end": 5.32
+   },
+   {
+    "text": "that's",
+    "start": 5.32,
+    "end": 5.54
+   },
+   {
+    "text": "used",
+    "start": 5.54,
+    "end": 5.66
+   },
+   {
+    "text": "in",
+    "start": 5.66,
+    "end": 5.82
+   },
+   {
+    "text": "the",
+    "start": 5.82,
+    "end": 5.9
+   },
+   {
+    "text": "interior?",
+    "start": 5.9,
+    "end": 6.2
+   }
+  ]
+ },
+ {
+  "id": "b",
+  "src": "media/w_b.mp4",
+  "duration": 14.45,
+  "words": [
+   {
+    "text": "Here",
+    "start": 0.1,
+    "end": 0.62
+   },
+   {
+    "text": "at",
+    "start": 0.62,
+    "end": 0.74
+   },
+   {
+    "text": "PODERA",
+    "start": 0.74,
+    "end": 1.18
+   },
+   {
+    "text": "we",
+    "start": 1.18,
+    "end": 1.44
+   },
+   {
+    "text": "offer",
+    "start": 1.44,
+    "end": 1.58
+   },
+   {
+    "text": "3",
+    "start": 1.58,
+    "end": 1.98
+   },
+   {
+    "text": "different",
+    "start": 1.98,
+    "end": 2.3
+   },
+   {
+    "text": "wood",
+    "start": 2.3,
+    "end": 2.52
+   },
+   {
+    "text": "interior",
+    "start": 2.52,
+    "end": 2.8
+   },
+   {
+    "text": "options.",
+    "start": 2.8,
+    "end": 3.24
+   },
+   {
+    "text": "Pine,",
+    "start": 3.88,
+    "end": 4.08
+   },
+   {
+    "text": "mixed",
+    "start": 4.7,
+    "end": 4.88
+   },
+   {
+    "text": "Abachi",
+    "start": 4.88,
+    "end": 5.3
+   },
+   {
+    "text": "and",
+    "start": 5.3,
+    "end": 5.9
+   },
+   {
+    "text": "Canadian",
+    "start": 5.9,
+    "end": 6.32
+   },
+   {
+    "text": "Cedar.",
+    "start": 6.32,
+    "end": 6.7
+   },
+   {
+    "text": "As",
+    "start": 7.14,
+    "end": 7.3
+   },
+   {
+    "text": "you",
+    "start": 7.3,
+    "end": 7.44
+   },
+   {
+    "text": "can",
+    "start": 7.44,
+    "end": 7.56
+   },
+   {
+    "text": "see",
+    "start": 7.56,
+    "end": 7.8
+   },
+   {
+    "text": "in",
+    "start": 7.8,
+    "end": 8.2
+   },
+   {
+    "text": "this",
+    "start": 8.2,
+    "end": 8.4
+   },
+   {
+    "text": "sauna",
+    "start": 8.4,
+    "end": 8.64
+   },
+   {
+    "text": "we've",
+    "start": 8.64,
+    "end": 9.02
+   },
+   {
+    "text": "used",
+    "start": 9.02,
+    "end": 9.12
+   },
+   {
+    "text": "Canadian",
+    "start": 9.12,
+    "end": 9.52
+   },
+   {
+    "text": "Cedar",
+    "start": 9.52,
+    "end": 9.94
+   },
+   {
+    "text": "and",
+    "start": 9.94,
+    "end": 10.32
+   },
+   {
+    "text": "all",
+    "start": 10.32,
+    "end": 10.6
+   },
+   {
+    "text": "3",
+    "start": 10.6,
+    "end": 10.88
+   },
+   {
+    "text": "different",
+    "start": 10.88,
+    "end": 11.2
+   },
+   {
+    "text": "types",
+    "start": 11.2,
+    "end": 11.42
+   },
+   {
+    "text": "of",
+    "start": 11.42,
+    "end": 11.62
+   },
+   {
+    "text": "wood",
+    "start": 11.62,
+    "end": 11.8
+   },
+   {
+    "text": "have",
+    "start": 11.8,
+    "end": 12.16
+   },
+   {
+    "text": "completely",
+    "start": 12.16,
+    "end": 12.52
+   },
+   {
+    "text": "different",
+    "start": 12.52,
+    "end": 12.88
+   },
+   {
+    "text": "environments",
+    "start": 12.88,
+    "end": 13.38
+   },
+   {
+    "text": "and",
+    "start": 13.38,
+    "end": 13.78
+   },
+   {
+    "text": "atmospheres",
+    "start": 13.78,
+    "end": 14.14
+   },
+   {
+    "text": "to",
+    "start": 14.14,
+    "end": 14.34
+   },
+   {
+    "text": "them.",
+    "start": 14.34,
+    "end": 14.45
+   }
+  ]
+ },
+ {
+  "id": "c1",
+  "src": "media/w_c1.mp4",
+  "duration": 0.52,
+  "words": [
+   {
+    "text": "Pine...",
+    "start": 0.05,
+    "end": 0.45
+   }
+  ]
+ },
+ {
+  "id": "c2",
+  "src": "media/w_c2.mp4",
+  "duration": 13.2,
+  "words": [
+   {
+    "text": "gives",
+    "start": 0.05,
+    "end": 0.47
+   },
+   {
+    "text": "off",
+    "start": 0.47,
+    "end": 0.77
+   },
+   {
+    "text": "a",
+    "start": 0.77,
+    "end": 1.03
+   },
+   {
+    "text": "very",
+    "start": 1.03,
+    "end": 1.27
+   },
+   {
+    "text": "bright",
+    "start": 1.27,
+    "end": 2.11
+   },
+   {
+    "text": "and",
+    "start": 2.11,
+    "end": 2.49
+   },
+   {
+    "text": "vibrant",
+    "start": 2.49,
+    "end": 3.03
+   },
+   {
+    "text": "interior",
+    "start": 3.03,
+    "end": 3.61
+   },
+   {
+    "text": "while",
+    "start": 3.61,
+    "end": 4.17
+   },
+   {
+    "text": "mixed",
+    "start": 4.17,
+    "end": 4.41
+   },
+   {
+    "text": "Abachi",
+    "start": 4.41,
+    "end": 4.83
+   },
+   {
+    "text": "has",
+    "start": 4.83,
+    "end": 5.25
+   },
+   {
+    "text": "a",
+    "start": 5.25,
+    "end": 5.45
+   },
+   {
+    "text": "very",
+    "start": 5.45,
+    "end": 5.69
+   },
+   {
+    "text": "interesting",
+    "start": 5.69,
+    "end": 6.07
+   },
+   {
+    "text": "contrast",
+    "start": 6.07,
+    "end": 6.53
+   },
+   {
+    "text": "to",
+    "start": 6.53,
+    "end": 6.85
+   },
+   {
+    "text": "it.",
+    "start": 6.85,
+    "end": 7.33
+   },
+   {
+    "text": "And",
+    "start": 7.33,
+    "end": 7.59
+   },
+   {
+    "text": "Canadian",
+    "start": 7.59,
+    "end": 7.93
+   },
+   {
+    "text": "Cedar,",
+    "start": 7.93,
+    "end": 8.43
+   },
+   {
+    "text": "as",
+    "start": 8.57,
+    "end": 8.77
+   },
+   {
+    "text": "you",
+    "start": 8.77,
+    "end": 8.89
+   },
+   {
+    "text": "can",
+    "start": 8.89,
+    "end": 9.01
+   },
+   {
+    "text": "see,",
+    "start": 9.01,
+    "end": 9.19
+   },
+   {
+    "text": "is",
+    "start": 9.31,
+    "end": 9.35
+   },
+   {
+    "text": "incredibly",
+    "start": 9.35,
+    "end": 9.71
+   },
+   {
+    "text": "warm",
+    "start": 9.71,
+    "end": 10.33
+   },
+   {
+    "text": "and",
+    "start": 10.33,
+    "end": 11.01
+   },
+   {
+    "text": "creates",
+    "start": 11.01,
+    "end": 11.47
+   },
+   {
+    "text": "a",
+    "start": 11.47,
+    "end": 11.65
+   },
+   {
+    "text": "very",
+    "start": 11.65,
+    "end": 11.97
+   },
+   {
+    "text": "welcoming",
+    "start": 11.97,
+    "end": 12.73
+   },
+   {
+    "text": "environment.",
+    "start": 12.73,
+    "end": 13.17
+   }
+  ]
+ },
+ {
+  "id": "d",
+  "src": "media/w_d.mp4",
+  "duration": 9.25,
+  "words": [
+   {
+    "text": "You",
+    "start": 0.05,
+    "end": 0.25
+   },
+   {
+    "text": "know,",
+    "start": 0.25,
+    "end": 0.49
+   },
+   {
+    "text": "the",
+    "start": 0.65,
+    "end": 0.87
+   },
+   {
+    "text": "most",
+    "start": 0.87,
+    "end": 1.03
+   },
+   {
+    "text": "interesting",
+    "start": 1.03,
+    "end": 1.39
+   },
+   {
+    "text": "part",
+    "start": 1.39,
+    "end": 1.71
+   },
+   {
+    "text": "is",
+    "start": 1.71,
+    "end": 1.99
+   },
+   {
+    "text": "that",
+    "start": 1.99,
+    "end": 2.23
+   },
+   {
+    "text": "it",
+    "start": 2.23,
+    "end": 2.65
+   },
+   {
+    "text": "doesn't",
+    "start": 2.65,
+    "end": 2.89
+   },
+   {
+    "text": "always",
+    "start": 2.89,
+    "end": 3.07
+   },
+   {
+    "text": "have",
+    "start": 3.07,
+    "end": 3.25
+   },
+   {
+    "text": "to",
+    "start": 3.25,
+    "end": 3.37
+   },
+   {
+    "text": "be",
+    "start": 3.37,
+    "end": 3.47
+   },
+   {
+    "text": "the",
+    "start": 3.47,
+    "end": 3.57
+   },
+   {
+    "text": "most",
+    "start": 3.57,
+    "end": 3.71
+   },
+   {
+    "text": "expensive",
+    "start": 3.71,
+    "end": 4.03
+   },
+   {
+    "text": "wood.",
+    "start": 4.03,
+    "end": 4.33
+   },
+   {
+    "text": "It's",
+    "start": 4.83,
+    "end": 5.27
+   },
+   {
+    "text": "the",
+    "start": 5.27,
+    "end": 5.39
+   },
+   {
+    "text": "wood",
+    "start": 5.39,
+    "end": 5.55
+   },
+   {
+    "text": "that",
+    "start": 5.55,
+    "end": 5.73
+   },
+   {
+    "text": "feels",
+    "start": 5.73,
+    "end": 5.87
+   },
+   {
+    "text": "right",
+    "start": 5.87,
+    "end": 6.07
+   },
+   {
+    "text": "to",
+    "start": 6.07,
+    "end": 6.27
+   },
+   {
+    "text": "you",
+    "start": 6.27,
+    "end": 6.45
+   },
+   {
+    "text": "and",
+    "start": 6.45,
+    "end": 6.87
+   },
+   {
+    "text": "creates",
+    "start": 6.87,
+    "end": 7.13
+   },
+   {
+    "text": "the",
+    "start": 7.13,
+    "end": 7.33
+   },
+   {
+    "text": "atmosphere",
+    "start": 7.33,
+    "end": 7.63
+   },
+   {
+    "text": "that",
+    "start": 7.63,
+    "end": 8.11
+   },
+   {
+    "text": "you",
+    "start": 8.11,
+    "end": 8.23
+   },
+   {
+    "text": "want",
+    "start": 8.23,
+    "end": 8.53
+   },
+   {
+    "text": "in",
+    "start": 8.53,
+    "end": 8.79
+   },
+   {
+    "text": "your",
+    "start": 8.79,
+    "end": 8.95
+   },
+   {
+    "text": "sauna.",
+    "start": 8.95,
+    "end": 9.25
+   }
+  ]
+ },
+ {
+  "id": "e",
+  "src": "media/w_e.mp4",
+  "duration": 16.94,
+  "words": [
+   {
+    "text": "I",
+    "start": 0.04,
+    "end": 0.34
+   },
+   {
+    "text": "always",
+    "start": 0.34,
+    "end": 0.56
+   },
+   {
+    "text": "recommend",
+    "start": 0.56,
+    "end": 0.84
+   },
+   {
+    "text": "to",
+    "start": 0.84,
+    "end": 1.1
+   },
+   {
+    "text": "my",
+    "start": 1.1,
+    "end": 1.22
+   },
+   {
+    "text": "clients",
+    "start": 1.22,
+    "end": 1.54
+   },
+   {
+    "text": "not",
+    "start": 1.54,
+    "end": 1.82
+   },
+   {
+    "text": "only",
+    "start": 1.82,
+    "end": 2.08
+   },
+   {
+    "text": "to",
+    "start": 2.08,
+    "end": 2.18
+   },
+   {
+    "text": "take",
+    "start": 2.18,
+    "end": 2.3
+   },
+   {
+    "text": "a",
+    "start": 2.3,
+    "end": 2.38
+   },
+   {
+    "text": "look",
+    "start": 2.38,
+    "end": 2.46
+   },
+   {
+    "text": "at",
+    "start": 2.46,
+    "end": 2.58
+   },
+   {
+    "text": "the",
+    "start": 2.58,
+    "end": 2.64
+   },
+   {
+    "text": "pictures",
+    "start": 2.64,
+    "end": 3.0
+   },
+   {
+    "text": "but",
+    "start": 3.0,
+    "end": 3.42
+   },
+   {
+    "text": "come",
+    "start": 3.42,
+    "end": 3.62
+   },
+   {
+    "text": "see",
+    "start": 3.62,
+    "end": 3.88
+   },
+   {
+    "text": "it",
+    "start": 3.88,
+    "end": 4.14
+   },
+   {
+    "text": "in",
+    "start": 4.14,
+    "end": 4.76
+   },
+   {
+    "text": "real",
+    "start": 4.76,
+    "end": 4.94
+   },
+   {
+    "text": "life",
+    "start": 4.94,
+    "end": 5.28
+   },
+   {
+    "text": "just",
+    "start": 5.28,
+    "end": 5.66
+   },
+   {
+    "text": "to",
+    "start": 5.66,
+    "end": 5.88
+   },
+   {
+    "text": "get",
+    "start": 5.88,
+    "end": 5.96
+   },
+   {
+    "text": "a",
+    "start": 5.96,
+    "end": 6.08
+   },
+   {
+    "text": "feel",
+    "start": 6.08,
+    "end": 6.22
+   },
+   {
+    "text": "of",
+    "start": 6.22,
+    "end": 6.4
+   },
+   {
+    "text": "the",
+    "start": 6.4,
+    "end": 6.6
+   },
+   {
+    "text": "atmosphere.",
+    "start": 6.6,
+    "end": 7.02
+   },
+   {
+    "text": "And",
+    "start": 7.72,
+    "end": 7.72
+   },
+   {
+    "text": "a",
+    "start": 7.72,
+    "end": 8.08
+   },
+   {
+    "text": "question",
+    "start": 8.08,
+    "end": 8.3
+   },
+   {
+    "text": "for",
+    "start": 8.3,
+    "end": 8.52
+   },
+   {
+    "text": "you.",
+    "start": 8.52,
+    "end": 8.66
+   },
+   {
+    "text": "What",
+    "start": 8.74,
+    "end": 8.8
+   },
+   {
+    "text": "do",
+    "start": 8.8,
+    "end": 8.9
+   },
+   {
+    "text": "you",
+    "start": 8.9,
+    "end": 9.0
+   },
+   {
+    "text": "enjoy?",
+    "start": 9.0,
+    "end": 9.34
+   },
+   {
+    "text": "Do",
+    "start": 9.56,
+    "end": 9.66
+   },
+   {
+    "text": "you",
+    "start": 9.66,
+    "end": 9.72
+   },
+   {
+    "text": "enjoy",
+    "start": 9.72,
+    "end": 9.98
+   },
+   {
+    "text": "a",
+    "start": 9.98,
+    "end": 10.08
+   },
+   {
+    "text": "bright",
+    "start": 10.08,
+    "end": 10.32
+   },
+   {
+    "text": "interior,",
+    "start": 10.32,
+    "end": 10.78
+   },
+   {
+    "text": "a",
+    "start": 11.7,
+    "end": 11.86
+   },
+   {
+    "text": "very",
+    "start": 11.86,
+    "end": 12.26
+   },
+   {
+    "text": "contrasty",
+    "start": 12.26,
+    "end": 12.92
+   },
+   {
+    "text": "interior?",
+    "start": 12.92,
+    "end": 13.3
+   },
+   {
+    "text": "What",
+    "start": 13.72,
+    "end": 13.82
+   },
+   {
+    "text": "do",
+    "start": 13.82,
+    "end": 13.92
+   },
+   {
+    "text": "you",
+    "start": 13.92,
+    "end": 14.0
+   },
+   {
+    "text": "enjoy",
+    "start": 14.0,
+    "end": 14.28
+   },
+   {
+    "text": "more?",
+    "start": 14.28,
+    "end": 14.58
+   },
+   {
+    "text": "Warm",
+    "start": 15.04,
+    "end": 15.42
+   },
+   {
+    "text": "and",
+    "start": 15.42,
+    "end": 16.18
+   },
+   {
+    "text": "woody",
+    "start": 16.18,
+    "end": 16.46
+   },
+   {
+    "text": "interior?",
+    "start": 16.46,
+    "end": 16.82
+   }
+  ]
+ }
+]
