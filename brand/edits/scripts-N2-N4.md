@@ -82,3 +82,23 @@
 Bed: "Going Home" (HoliznaCC0, CC0), mix at −20 LUFS (quiet, per brief). Missing from footage: POV door-opening with steam, ladle on stones, guest sitting — replaced by the closest real shots.
 
 **Edit note (N3 v3):** every shot skips the first 1 s of its source (shaky handheld starts); 8818 from 3.5 s, 8819 from 4.0 s. Rates 1880 0.85×, 8848 0.9×, 1952 0.85×, 8850 0.75× to keep the timing. Door foley moved to 0.35 s.
+
+## N4 v4 «What's hidden in the walls» — editorial minimal, 33 s (`N4v4-WallsEditorial`)
+Same kit as N3 v3 (`video/src/shorts/editorial.tsx`): hard cuts, one masked line per shot, gold rule, flat logo outro. Every clip starts ≥ 1 s into its source.
+
+| Time | Shot (graded) | On screen | Sound |
+|---|---|---|---|
+| 0–3.2 | IMG_8862 cladding from below, night | *What you don't see / costs the most.* | 3 dull knocks |
+| 3.2–6.4 | IMG_9412 workshop: bench, mitre saw | INSIDE THE WALL · *Built in our workshop.* | real workshop sound |
+| 6.4–8.2 | IMG_0006 saw cut | (same line) | real saw |
+| 8.2–10.5 | IMG_2008 exterior cladding close-up | 01 · OUTSIDE · *Exterior cladding.* | soft wood tick |
+| 10.5–12.8 | IMG_8820 lit wall | 02 · *Insulation.* | tick |
+| 12.8–15.2 | IMG_8803 interior boards | 03 · INSIDE · *Cedar lining.* | tick |
+| 15.2–18.7 | IMG_8809 SAWO heater top | PODERA 2.5×4 · **SAWO · 12 kW** | |
+| 18.7–21.7 | IMG_1901 vent grille | *Ventilation, built in.* | |
+| 21.7–25.2 | IMG_8844 glass door from inside | *A door that keeps the heat in.* | |
+| 25.2–27.6 | IMG_1952 palm along the bench | *You'll never see these layers.* | |
+| 27.6–30.4 | IMG_8802 wide interior | EVERY SESSION · *You'll feel them.* Comment WOOD for our materials guide. | |
+| 30.4–33 | — | PODERA · slogan · Comment WOOD | |
+
+Bed: "Big Eyes" (FreePD, CC0) quiet; mix −16 LUFS. Left out until confirmed: foil vapour barrier, insulation thickness, "air in low, out high", door seal vs Thai humidity. No open-frame or wall-sample footage yet (script fallback: shoot a 30×30 cm wall cross-section).
