@@ -133,3 +133,20 @@ No voice, no CTA in the video (caption: VISIT). Long calm shots, no speed-ups. *
 | 25.6–28 | — | PODERA · slogan | |
 
 Missing from footage (script): phone placed face-down on a shelf, ladle/water on stones with steam in a light beam, a person sitting, drops on wood, palm on knee, exhale, person walking out at dusk. Shoot these and the hook becomes the real one.
+
+## N7 «Before you pay for a sauna — 5 questions» — editorial minimal, 35 s (`N7-FiveQuestions`)
+No voice-over and no person on camera → questions are on-screen text; a big gold counter (1–5 / 5) always sits in the same place. No competitors, no prices. **Only clips never used before.** Bed: "One Night In France" (HoliznaCC0, CC0, calm lofi beat, from 21.6 s where the beat starts), no source audio, −16 LUFS.
+
+| Time | Shot | Counter · on screen |
+|---|---|---|
+| 0–3.2 | IMG_1979 sauna A, day | BEFORE YOU PAY FOR A SAUNA · *Ask these 5 questions.* |
+| 3.2–8.2 | IMG_8857 corner cladding → window, night (0.6×) | 1 · *What's in the walls?* And how thick is the insulation? |
+| 8.2–11.7 | IMG_8810 heater → IMG_1984 control panel | 2 · *Which heater, what power?* And who services it in Thailand? |
+| 11.7–15.2 | IMG_8821 floor → benches | 3 · *Is the wood rated for 90°C?* And for Thai humidity? |
+| 15.2–22.2 | IMG_1981 module on its blocks → IMG_1996 porch and window | 4 · *What's in the price?* Delivery, crane, connection — or extra? |
+| 22.2–26.2 | IMG_8799 door handle push-in | 5 · *Can I see a finished one?* Before I pay anything. |
+| 26.2–29.6 | IMG_8852 past the lit window to the door, night | *Save this.* |
+| 29.6–32.4 | IMG_8860 corner window, night | OUR ANSWERS TO ALL FIVE · **Comment PRICE** |
+| 32.4–35 | — | PODERA · slogan · Comment PRICE |
+
+Missing (script): PODERA representative on camera / hand writing "5", wall cross-section, electrical board, truck + crane + connection (N1 footage not in the folder), representative opening the door with an inviting gesture.
