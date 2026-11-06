@@ -9,15 +9,15 @@ import {Vignette} from './motion';
 import {f, FPS, Music, Sfx} from './timeline';
 
 const SHOTS: {src: string; dur: number; rate?: number}[] = [
-  {src: 'media/v_1880.mp4', dur: 3.4, rate: 0.9},
-  {src: 'media/v_8848.mp4', dur: 5.0},
-  {src: 'media/v_1952.mp4', dur: 3.0},
+  {src: 'media/v_1880.mp4', dur: 3.4, rate: 0.85},
+  {src: 'media/v_8848.mp4', dur: 5.0, rate: 0.9},
+  {src: 'media/v_1952.mp4', dur: 3.0, rate: 0.85},
   {src: 'media/v_8797.mp4', dur: 2.2},
   {src: 'media/v_8806.mp4', dur: 2.0},
   {src: 'media/v_8819.mp4', dur: 2.6, rate: 0.8},
   {src: 'media/v_8801.mp4', dur: 4.2},
   {src: 'media/v_8818.mp4', dur: 3.4},
-  {src: 'media/v_8850.mp4', dur: 3.0},
+  {src: 'media/v_8850.mp4', dur: 3.0, rate: 0.75},
 ];
 const MAIN = SHOTS.reduce((a, s) => a + s.dur, 0);
 const OUTRO = 2.6;
@@ -140,7 +140,7 @@ export const VisitEditorial: React.FC = () => (
 
     {/* Very quiet bed + natural foley only */}
     <Music src="music/n3_going_home.wav" volume={0.22} />
-    <Sfx name="lib/door/door_open" at={0.85} volume={0.5} />
+    <Sfx name="lib/door/door_open" at={0.35} volume={0.5} />
     <Sfx name="steam" at={15.6} volume={0.9} />
   </AbsoluteFill>
 );

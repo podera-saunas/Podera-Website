@@ -80,3 +80,5 @@
 | 28.8–31.5 | — | PODERA · *Your escape, every day* · Comment VISIT |
 
 Bed: "Going Home" (HoliznaCC0, CC0), mix at −20 LUFS (quiet, per brief). Missing from footage: POV door-opening with steam, ladle on stones, guest sitting — replaced by the closest real shots.
+
+**Edit note (N3 v3):** every shot skips the first 1 s of its source (shaky handheld starts); 8818 from 3.5 s, 8819 from 4.0 s. Rates 1880 0.85×, 8848 0.9×, 1952 0.85×, 8850 0.75× to keep the timing. Door foley moved to 0.35 s.
