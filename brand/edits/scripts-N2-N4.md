@@ -73,7 +73,7 @@
 | 3.4–8.4 | IMG_8848 POV walk along the facade to the porch | PATTAYA · PHUKET · *A finished PODERA.* Heated. Ready for you. |
 | 8.4–11.4 | IMG_1952 hand along the bench | *Touch it.* |
 | 11.4–15.6 | IMG_8797 door handle → IMG_8806 heater | *Sit in it.* |
-| 15.6–18.2 | IMG_8819 inside the heater (0.8×) + steam hiss | *Feel the heat.* |
+| 15.6–18.2 | IMG_8819 inside the heater, clean take from 3.0 s (0.8×) + steam hiss | *Feel the heat.* |
 | 18.2–22.4 | IMG_8801 entering the steam room | *Bring your partner.* And your plot questions. |
 | 22.4–25.8 | IMG_8818 window → benches | NO OBLIGATION · *Stay as long as you need.* |
 | 25.8–28.8 | IMG_8850 sauna at blue hour, static (night LUT) | VISIT A SHOW SAUNA · **Comment VISIT** · We'll send the location and free times. |
