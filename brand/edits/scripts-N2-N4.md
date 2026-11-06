@@ -120,16 +120,16 @@ No pool / villa / people / drone footage in the folder → script fallback hook 
 Left out until confirmed: "Built for Thai humidity", exact capacity of the 2.5×6 alone. To shoot: villa pool → pan to sauna (golden hour), person walking from sauna to the pool, folded towels on the bench, drone/balcony top view.
 
 ## N6 «Phone stays outside» — ritual image film, 28 s (`N6-PhoneStaysOutside`)
-No voice, no music, no CTA in the video (caption: VISIT). Long calm shots, no speed-ups. **Only clips never used in earlier videos.** Live sound only: the clips' own night air outside (no speech, checked), a door that cuts it off, steam, then the night again. Mix ≈ −19 LUFS.
+No voice, no CTA in the video (caption: VISIT). Long calm shots, no speed-ups. **Only clips never used in earlier videos.** No source audio (owner's call): calm lofi bed "Saturation" (HoliznaCC0, CC0) + soft door and steam foley. Mix −16 LUFS.
 
 | Time | Shot (graded, ≥ 0.5–1 s into source) | On screen | Sound |
 |---|---|---|---|
-| 0–3.6 | IMG_1875 control panel → glowing steam-room window, night | *Phone stays outside.* | night air → door closes, silence |
-| 3.6–7.4 | IMG_8811 soft light along the benches | — | room silence |
+| 0–3.6 | IMG_1875 control panel → glowing steam-room window, night | *Phone stays outside.* | door closes |
+| 3.6–7.4 | IMG_8811 soft light along the benches | — | |
 | 7.4–15.0 | IMG_8840 heater tower → IMG_8813 stones cage, both 50 % (60 fps) | *20 minutes. Yours.* | steam ×2 |
 | 15.0–18.6 | IMG_8837 wood and light | — | |
 | 18.6–22.2 | IMG_8817 evening behind the glass | — | |
-| 22.2–25.6 | IMG_8859 outside at night, the lit window | *Every evening. At home.* | door opens, night air returns |
+| 22.2–25.6 | IMG_8859 outside at night, the lit window | *Every evening. At home.* | door opens |
 | 25.6–28 | — | PODERA · slogan | |
 
 Missing from footage (script): phone placed face-down on a shelf, ladle/water on stones with steam in a light beam, a person sitting, drops on wood, palm on knee, exhale, person walking out at dusk. Shoot these and the hook becomes the real one.
