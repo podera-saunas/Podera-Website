@@ -102,3 +102,19 @@ Same kit as N3 v3 (`video/src/shorts/editorial.tsx`): hard cuts, one masked line
 | 30.4–33 | — | PODERA · slogan · Comment WOOD | |
 
 Bed: "Walking Away" (HoliznaCC0, CC0, calm lofi); mix −16 LUFS. Left out until confirmed: foil vapour barrier, insulation thickness, "air in low, out high", door seal vs Thai humidity. No open-frame or wall-sample footage yet (script fallback: shoot a 30×30 cm wall cross-section).
+
+## N5 «Сауна как апгрейд виллы под аренду» — editorial minimal, 30 s (`N5-VillaUpgrade`)
+No pool / villa / people / drone footage in the folder → script fallback hook "Imagine this next to your pool"; the showroom sauna is never cut as if it stood at a villa. Cuts on the beat of "Fresh Focus" (FreePD, CC0, 103 BPM), quiet, no source audio, mix −16 LUFS.
+
+| Time | Shot (graded, each ≥ 1 s into source) | On screen |
+|---|---|---|
+| 0–3.1 | IMG_8849 sauna B at blue hour, lit inside | VILLA OWNERS · *Your guests have seen a hundred pools.* |
+| 3.1–7.7 | IMG_8853 orbit to the glowing window | *Imagine this next to yours.* |
+| 7.7–14.7 | IMG_1994 facade → IMG_8838 benches → IMG_8800 steam room ("listing" trio) | ARRIVES FINISHED · *Installed in 1 day.* No renovation. No closed weeks. |
+| 14.7–18.2 | IMG_1882 hand on the touch panel | *Simple controls for guests.* |
+| 18.2–21.6 | IMG_8814 benches | 2.5×4 · 2.5×6 · *4 to 8 guests.* |
+| 21.6–24.5 | IMG_8812 heater against the panoramic window | *The photo they stop on.* |
+| 24.5–27.4 | IMG_8847 facade from the porch | OWN OR MANAGE RENTALS? · **Comment VILLA** · We'll send specs and power requirements. |
+| 27.4–30 | — | PODERA · slogan · Comment VILLA |
+
+Left out until confirmed: "Built for Thai humidity", exact capacity of the 2.5×6 alone. To shoot: villa pool → pan to sauna (golden hour), person walking from sauna to the pool, folded towels on the bench, drone/balcony top view.
