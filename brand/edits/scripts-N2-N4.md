@@ -126,9 +126,9 @@ No voice, no CTA in the video (caption: VISIT). Long calm shots, no speed-ups. *
 |---|---|---|---|
 | 0–3.6 | IMG_1875 control panel → glowing steam-room window, night | *Phone stays outside.* | door closes |
 | 3.6–7.4 | IMG_8811 soft light along the benches | — | |
-| 7.4–15.0 | IMG_8840 heater tower → IMG_8813 stones cage, both 50 % (60 fps) | *20 minutes. Yours.* | steam ×2 |
+| 7.4–15.0 | IMG_8816 heater from above, window behind → IMG_8813 stones cage, both 50 % (60 fps) | *20 minutes. Yours.* | steam ×2 |
 | 15.0–18.6 | IMG_8837 wood and light | — | |
-| 18.6–22.2 | IMG_8817 evening behind the glass | — | |
+| 18.6–22.2 | IMG_8815 evening behind the glass (steady 4.6–6.8 s, 0.6×) | — | |
 | 22.2–25.6 | IMG_8859 outside at night, the lit window | *Every evening. At home.* | door opens |
 | 25.6–28 | — | PODERA · slogan | |
 

@@ -14,10 +14,10 @@ import {f, Music, Sfx} from './timeline';
 const SHOTS: EdShot[] = [
   {src: 'media/r_1875.mp4', dur: 3.6, rate: 0.95}, // outside: control panel → glowing steam-room window
   {src: 'media/r_8811.mp4', dur: 3.8, rate: 0.9}, // inside: soft light along the benches
-  {src: 'media/r_8840.mp4', dur: 3.8, rate: 0.5}, // the heater tower, 50 % (60 fps source)
+  {src: 'media/r_8816.mp4', dur: 3.8, rate: 0.5}, // heater from above, evening window behind, 50 % (60 fps source)
   {src: 'media/r_8813.mp4', dur: 3.8, rate: 0.5}, // heater stones cage, 50 % (60 fps source)
   {src: 'media/r_8837.mp4', dur: 3.6, rate: 0.7}, // wood and light
-  {src: 'media/r_8817.mp4', dur: 3.6, rate: 0.8}, // evening behind the glass
+  {src: 'media/r_8815.mp4', dur: 3.6, rate: 0.6}, // evening behind the glass (steady part only)
   {src: 'media/r_8859.mp4', dur: 3.4, rate: 0.9}, // back outside at night
 ];
 const MAIN = shotsLength(SHOTS); // 25.6
