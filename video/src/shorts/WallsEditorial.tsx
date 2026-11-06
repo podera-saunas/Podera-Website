@@ -19,7 +19,7 @@ const SHOTS: EdShot[] = [
   {src: 'media/w_8803.mp4', dur: 2.4}, // layer 3: cedar lining
   {src: 'media/w_8809.mp4', dur: 3.5}, // SAWO heater top
   {src: 'media/w_1901.mp4', dur: 3.0}, // vent grille
-  {src: 'media/w_8844.mp4', dur: 3.5}, // glass door from inside
+  {src: 'media/w_1983.mp4', dur: 3.5, rate: 0.75}, // glass door + wooden handle, straight verticals
   {src: 'media/w_1952.mp4', dur: 2.4}, // palm along the bench
   {src: 'media/w_8802.mp4', dur: 2.8}, // wide interior
 ];
@@ -49,8 +49,8 @@ export const WallsEditorial: React.FC = () => (
     </Sequence>
     <Grain opacity={0.04} />
 
-    {/* Quiet CC0 bed; hook = three dull, dense knocks on the wall */}
-    <Music src="music/n4_big_eyes.wav" volume={0.25} />
+    {/* Calm lofi CC0 bed (Walking Away, HoliznaCC0); hook = three dull, dense knocks on the wall */}
+    <Music src="music/n3_walking_away.wav" volume={0.3} />
     <Sfx name="lib/impact/impactsoft_heavy_000" at={0.1} volume={0.9} />
     <Sfx name="lib/impact/impactsoft_heavy_001" at={0.36} volume={0.9} />
     <Sfx name="lib/impact/impactsoft_heavy_002" at={0.62} volume={0.9} />

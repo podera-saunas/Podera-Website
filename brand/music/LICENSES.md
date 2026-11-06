@@ -12,6 +12,7 @@ through the Wayback Machine in that manifest (FreePD closed in 2025).
 | N2 Spa vs Sauna | **Energizing** (89 BPM) | FreePD (Kevin MacLeod & contributors) | freepd.com/misc.php · CC0 | see manifest |
 | N3 Visit Showroom | **Walking Away (Lofi, Peaceful, Motivating)** (80 BPM) | HoliznaCC0 | freemusicarchive.org/music/holiznacc0/public-domain-lofi/ · CC0 | see manifest |
 | N4 Inside the Walls | **Big Eyes** (73 BPM) | FreePD (Kevin MacLeod & contributors) | freepd.com/epic.php · CC0 | see manifest |
+| N4 v4 Inside the Walls | **Walking Away** (same track as N3 v1) | HoliznaCC0 | see above · CC0 | see manifest |
 
 Other CC0 candidates already vetted from the same mirror: Meditating Beat, Pond, Emotional Blockbuster 2
 (FreePD); Going Home, Infinite Echoes (HoliznaCC0).

@@ -96,9 +96,9 @@ Same kit as N3 v3 (`video/src/shorts/editorial.tsx`): hard cuts, one masked line
 | 12.8–15.2 | IMG_8803 interior boards | 03 · INSIDE · *Cedar lining.* | tick |
 | 15.2–18.7 | IMG_8809 SAWO heater top | PODERA 2.5×4 · **SAWO · 12 kW** | |
 | 18.7–21.7 | IMG_1901 vent grille | *Ventilation, built in.* | |
-| 21.7–25.2 | IMG_8844 glass door from inside | *A door that keeps the heat in.* | |
+| 21.7–25.2 | IMG_1983 glass door + wooden handle (0.75×) | *A door that keeps the heat in.* | |
 | 25.2–27.6 | IMG_1952 palm along the bench | *You'll never see these layers.* | |
 | 27.6–30.4 | IMG_8802 wide interior | EVERY SESSION · *You'll feel them.* Comment WOOD for our materials guide. | |
 | 30.4–33 | — | PODERA · slogan · Comment WOOD | |
 
-Bed: "Big Eyes" (FreePD, CC0) quiet; mix −16 LUFS. Left out until confirmed: foil vapour barrier, insulation thickness, "air in low, out high", door seal vs Thai humidity. No open-frame or wall-sample footage yet (script fallback: shoot a 30×30 cm wall cross-section).
+Bed: "Walking Away" (HoliznaCC0, CC0, calm lofi); mix −16 LUFS. Left out until confirmed: foil vapour barrier, insulation thickness, "air in low, out high", door seal vs Thai humidity. No open-frame or wall-sample footage yet (script fallback: shoot a 30×30 cm wall cross-section).
