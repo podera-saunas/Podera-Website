@@ -1,6 +1,6 @@
 // N5 "A sauna as a villa-rental upgrade" — B2B product video, minimalist editorial (same kit as N3 v3 / N4 v4).
 // No pool/villa footage yet → the script's fallback hook "Imagine this next to your pool"; the showroom sauna is
-// never cut as if it stood at a villa. Cuts land on the beat of a light CC0 track (Fresh Focus, 103 BPM).
+// never cut as if it stood at a villa. Calm lofi CC0 bed (Roof Tops, HoliznaCC0).
 import React from 'react';
 import {AbsoluteFill, Sequence} from 'remotion';
 import {colors} from './brand';
@@ -10,7 +10,7 @@ import {LogoOutro} from './LogoOutro';
 import {Vignette} from './motion';
 import {f, Music} from './timeline';
 
-// Cut points = music beats: 3.088 · 7.709 · 10.031 · 12.353 · 14.675 · 18.158 · 21.618 · 24.52 · 27.4
+// Cut points: 3.088 · 7.709 · 10.031 · 12.353 · 14.675 · 18.158 · 21.618 · 24.52 · 27.4
 // Every source clip starts ≥ 1 s past its shaky start.
 const SHOTS: EdShot[] = [
   {src: 'media/x_8849.mp4', dur: 3.088}, // sauna B at blue hour, lit inside
@@ -46,7 +46,7 @@ export const VillaEditorial: React.FC = () => (
     </Sequence>
     <Grain opacity={0.04} />
 
-    {/* Light, quiet CC0 bed (Fresh Focus, FreePD, 103 BPM). No source audio. */}
-    <Music src="music/n5_fresh_focus.wav" volume={0.3} />
+    {/* Calm lofi CC0 bed (Roof Tops, HoliznaCC0). No source audio. */}
+    <Music src="music/n5_roof_tops.wav" volume={0.3} />
   </AbsoluteFill>
 );

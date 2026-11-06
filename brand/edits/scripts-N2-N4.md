@@ -104,7 +104,7 @@ Same kit as N3 v3 (`video/src/shorts/editorial.tsx`): hard cuts, one masked line
 Bed: "Walking Away" (HoliznaCC0, CC0, calm lofi); mix −16 LUFS. Left out until confirmed: foil vapour barrier, insulation thickness, "air in low, out high", door seal vs Thai humidity. No open-frame or wall-sample footage yet (script fallback: shoot a 30×30 cm wall cross-section).
 
 ## N5 «Сауна как апгрейд виллы под аренду» — editorial minimal, 30 s (`N5-VillaUpgrade`)
-No pool / villa / people / drone footage in the folder → script fallback hook "Imagine this next to your pool"; the showroom sauna is never cut as if it stood at a villa. Cuts on the beat of "Fresh Focus" (FreePD, CC0, 103 BPM), quiet, no source audio, mix −16 LUFS.
+No pool / villa / people / drone footage in the folder → script fallback hook "Imagine this next to your pool"; the showroom sauna is never cut as if it stood at a villa. Bed: "Roof Tops" (HoliznaCC0, CC0, calm lofi; first version with Fresh Focus was too cheerful), quiet, no source audio, mix −16 LUFS.
 
 | Time | Shot (graded, each ≥ 1 s into source) | On screen |
 |---|---|---|
