@@ -76,7 +76,7 @@
 | 15.6–18.2 | IMG_8819 inside the heater (0.8×) + steam hiss | *Feel the heat.* |
 | 18.2–22.4 | IMG_8801 entering the steam room | *Bring your partner.* And your plot questions. |
 | 22.4–25.8 | IMG_8818 window → benches | NO OBLIGATION · *Stay as long as you need.* |
-| 25.8–28.8 | IMG_8844 glass door lit from inside + door close | VISIT A SHOW SAUNA · **Comment VISIT** · We'll send the location and free times. |
+| 25.8–28.8 | IMG_8850 sauna at blue hour, static (night LUT) | VISIT A SHOW SAUNA · **Comment VISIT** · We'll send the location and free times. |
 | 28.8–31.5 | — | PODERA · *Your escape, every day* · Comment VISIT |
 
 Bed: "Going Home" (HoliznaCC0, CC0), mix at −20 LUFS (quiet, per brief). Missing from footage: POV door-opening with steam, ladle on stones, guest sitting — replaced by the closest real shots.

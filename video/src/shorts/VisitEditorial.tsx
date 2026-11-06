@@ -17,7 +17,7 @@ const SHOTS: {src: string; dur: number; rate?: number}[] = [
   {src: 'media/v_8819.mp4', dur: 2.6, rate: 0.8},
   {src: 'media/v_8801.mp4', dur: 4.2},
   {src: 'media/v_8818.mp4', dur: 3.4},
-  {src: 'media/v_8844.mp4', dur: 3.0},
+  {src: 'media/v_8850.mp4', dur: 3.0},
 ];
 const MAIN = SHOTS.reduce((a, s) => a + s.dur, 0);
 const OUTRO = 2.6;
@@ -142,6 +142,5 @@ export const VisitEditorial: React.FC = () => (
     <Music src="music/n3_going_home.wav" volume={0.22} />
     <Sfx name="lib/door/door_open" at={0.85} volume={0.5} />
     <Sfx name="steam" at={15.6} volume={0.9} />
-    <Sfx name="lib/door/door_close_02" at={27.6} volume={0.35} />
   </AbsoluteFill>
 );
