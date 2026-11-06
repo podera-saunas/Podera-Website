@@ -89,8 +89,8 @@ Same kit as N3 v3 (`video/src/shorts/editorial.tsx`): hard cuts, one masked line
 | Time | Shot (graded) | On screen | Sound |
 |---|---|---|---|
 | 0–3.2 | IMG_8862 cladding from below, night | *What you don't see / costs the most.* | 3 dull knocks |
-| 3.2–6.4 | IMG_9412 workshop: bench, mitre saw | INSIDE THE WALL · *Built in our workshop.* | real workshop sound |
-| 6.4–8.2 | IMG_0006 saw cut | (same line) | real saw |
+| 3.2–6.4 | IMG_9412 workshop: bench, mitre saw | INSIDE THE WALL · *Built in our workshop.* | |
+| 6.4–8.2 | IMG_0006 saw cut | (same line) | |
 | 8.2–10.5 | IMG_2008 exterior cladding close-up | 01 · OUTSIDE · *Exterior cladding.* | soft wood tick |
 | 10.5–12.8 | IMG_8820 lit wall | 02 · *Insulation.* | tick |
 | 12.8–15.2 | IMG_8803 interior boards | 03 · INSIDE · *Cedar lining.* | tick |

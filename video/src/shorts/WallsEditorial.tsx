@@ -1,5 +1,5 @@
 // N4 v4 "What's hidden in the walls" — product video, minimalist editorial (same kit as N3 v3).
-// Hard cuts by layer, one line per shot, real workshop sound + quiet CC0 bed, dull wall knocks on the hook.
+// Hard cuts by layer, one line per shot, no source audio: CC0 bed + foley only, dull wall knocks on the hook.
 import React from 'react';
 import {AbsoluteFill, Sequence} from 'remotion';
 import {colors} from './brand';
@@ -12,8 +12,8 @@ import {f, Music, Sfx} from './timeline';
 // Every source clip is cut ≥ 1 s past its shaky start (see brand/edits/scripts-N2-N4.md)
 const SHOTS: EdShot[] = [
   {src: 'media/w_8862.mp4', dur: 3.2}, // cladding from below, night
-  {src: 'media/w_9412.mp4', dur: 3.2, volume: 0.45}, // workshop: bench, mitre saw (real sound)
-  {src: 'media/w_0006.mp4', dur: 1.8, volume: 0.3}, // saw cut (real sound)
+  {src: 'media/w_9412.mp4', dur: 3.2}, // workshop: bench, mitre saw
+  {src: 'media/w_0006.mp4', dur: 1.8}, // saw cut
   {src: 'media/w_2008.mp4', dur: 2.3}, // layer 1: exterior cladding
   {src: 'media/w_8820.mp4', dur: 2.3}, // layer 2: insulation (behind the lit wall)
   {src: 'media/w_8803.mp4', dur: 2.4}, // layer 3: cedar lining
