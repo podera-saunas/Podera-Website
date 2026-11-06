@@ -65,3 +65,18 @@
 3. **Срез стены 30×30 см** на столе в мастерской (обшивка → утеплитель → плёнка → вагонка) для N4.
 4. **Стук костяшками по стене** с живым звуком для N4.
 5. **Блокнот с расчётом и рука** для N2.
+
+## N3 v3 «Don't buy a sauna from photos» — editorial minimal, 31.5 s (`N3v3-VisitEditorial`)
+| Time | Shot (graded) | On screen |
+|---|---|---|
+| 0–3.4 | IMG_1880 hand opens the glass door, warm light (night LUT, 0.9×) + door foley | BEFORE YOU ORDER · *Don't buy a sauna from photos.* |
+| 3.4–8.4 | IMG_8848 POV walk along the facade to the porch | PATTAYA · PHUKET · *A finished PODERA.* Heated. Ready for you. |
+| 8.4–11.4 | IMG_1952 hand along the bench | *Touch it.* |
+| 11.4–15.6 | IMG_8797 door handle → IMG_8806 heater | *Sit in it.* |
+| 15.6–18.2 | IMG_8819 inside the heater (0.8×) + steam hiss | *Feel the heat.* |
+| 18.2–22.4 | IMG_8801 entering the steam room | *Bring your partner.* And your plot questions. |
+| 22.4–25.8 | IMG_8818 window → benches | NO OBLIGATION · *Stay as long as you need.* |
+| 25.8–28.8 | IMG_8844 glass door lit from inside + door close | VISIT A SHOW SAUNA · **Comment VISIT** · We'll send the location and free times. |
+| 28.8–31.5 | — | PODERA · *Your escape, every day* · Comment VISIT |
+
+Bed: "Going Home" (HoliznaCC0, CC0), mix at −20 LUFS (quiet, per brief). Missing from footage: POV door-opening with steam, ladle on stones, guest sitting — replaced by the closest real shots.
