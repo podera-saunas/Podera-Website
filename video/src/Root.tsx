@@ -7,6 +7,7 @@ import {WallsEditorial, wallsDuration} from './shorts/WallsEditorial';
 import {VillaEditorial, villaDuration} from './shorts/VillaEditorial';
 import {RitualEditorial, ritualDuration} from './shorts/RitualEditorial';
 import {FiveQuestions, fiveQuestionsDuration} from './shorts/FiveQuestions';
+import {DetailsTalk, detailsDuration} from './shorts/DetailsTalk';
 import {
   InsideTheWalls,
   n2Duration,
@@ -21,6 +22,7 @@ const vertical = {fps: 30, width: 1080, height: 1920} as const;
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="T2-MakingItSimple" component={DetailsTalk} durationInFrames={detailsDuration} {...vertical} />
       <Composition id="N7-FiveQuestions" component={FiveQuestions} durationInFrames={fiveQuestionsDuration} {...vertical} />
       <Composition id="N6-PhoneStaysOutside" component={RitualEditorial} durationInFrames={ritualDuration} {...vertical} />
       <Composition id="N5-VillaUpgrade" component={VillaEditorial} durationInFrames={villaDuration} {...vertical} />

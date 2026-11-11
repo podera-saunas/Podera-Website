@@ -10,6 +10,7 @@ const KEYWORDS = new Set(
     '5', '10', '15', '2025', 'idea', 'prefab', 'movable', 'saunas', 'early', 'hard', 'owner',
     'running', 'everything', 'bills', 'workers', 'trailer', 'custom', 'wheels', 'rotate', 'lift',
     'easily', 'sleepless', 'nights', 'finally', 'months', 'standing', 'fully', 'own', 'soon',
+    'difficult', 'simple', 'odd', 'minimalistic', 'details', 'matter', 'seamless', 'podera', 'belongs',
   ],
 );
 

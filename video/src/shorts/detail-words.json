@@ -1,0 +1,640 @@
+[
+ {
+  "id": "a",
+  "src": "media/t_21.mp4",
+  "duration": 8.8,
+  "words": [
+   {
+    "text": "Did",
+    "start": 0.22,
+    "end": 0.7
+   },
+   {
+    "text": "you",
+    "start": 0.7,
+    "end": 0.84
+   },
+   {
+    "text": "know",
+    "start": 0.84,
+    "end": 1.06
+   },
+   {
+    "text": "the",
+    "start": 1.06,
+    "end": 1.48
+   },
+   {
+    "text": "most",
+    "start": 1.48,
+    "end": 1.64
+   },
+   {
+    "text": "difficult",
+    "start": 1.64,
+    "end": 1.98
+   },
+   {
+    "text": "part",
+    "start": 1.98,
+    "end": 2.34
+   },
+   {
+    "text": "about",
+    "start": 2.34,
+    "end": 2.6
+   },
+   {
+    "text": "building",
+    "start": 2.6,
+    "end": 2.94
+   },
+   {
+    "text": "a",
+    "start": 2.94,
+    "end": 3.08
+   },
+   {
+    "text": "modern",
+    "start": 3.08,
+    "end": 3.24
+   },
+   {
+    "text": "sauna",
+    "start": 3.24,
+    "end": 3.56
+   },
+   {
+    "text": "is",
+    "start": 3.56,
+    "end": 4.1
+   },
+   {
+    "text": "making",
+    "start": 4.1,
+    "end": 4.38
+   },
+   {
+    "text": "it",
+    "start": 4.38,
+    "end": 4.62
+   },
+   {
+    "text": "as",
+    "start": 4.62,
+    "end": 4.82
+   },
+   {
+    "text": "simple",
+    "start": 4.82,
+    "end": 5.22
+   },
+   {
+    "text": "as",
+    "start": 5.22,
+    "end": 5.54
+   },
+   {
+    "text": "possible?",
+    "start": 5.54,
+    "end": 5.94
+   },
+   {
+    "text": "I",
+    "start": 6.38,
+    "end": 6.5
+   },
+   {
+    "text": "know",
+    "start": 6.5,
+    "end": 6.62
+   },
+   {
+    "text": "it",
+    "start": 6.62,
+    "end": 6.7
+   },
+   {
+    "text": "sounds",
+    "start": 6.7,
+    "end": 6.86
+   },
+   {
+    "text": "quite",
+    "start": 6.86,
+    "end": 7.1
+   },
+   {
+    "text": "odd,",
+    "start": 7.1,
+    "end": 7.38
+   },
+   {
+    "text": "but",
+    "start": 7.38,
+    "end": 7.74
+   },
+   {
+    "text": "give",
+    "start": 7.74,
+    "end": 7.88
+   },
+   {
+    "text": "me",
+    "start": 7.88,
+    "end": 8.02
+   },
+   {
+    "text": "a",
+    "start": 8.02,
+    "end": 8.12
+   },
+   {
+    "text": "chance",
+    "start": 8.12,
+    "end": 8.26
+   },
+   {
+    "text": "to",
+    "start": 8.26,
+    "end": 8.44
+   },
+   {
+    "text": "explain.",
+    "start": 8.44,
+    "end": 8.76
+   }
+  ]
+ },
+ {
+  "id": "b",
+  "src": "media/t_22.mp4",
+  "duration": 10.05,
+  "words": [
+   {
+    "text": "When",
+    "start": 0.19,
+    "end": 0.71
+   },
+   {
+    "text": "you",
+    "start": 0.71,
+    "end": 0.85
+   },
+   {
+    "text": "take",
+    "start": 0.85,
+    "end": 1.03
+   },
+   {
+    "text": "a",
+    "start": 1.03,
+    "end": 1.17
+   },
+   {
+    "text": "look",
+    "start": 1.17,
+    "end": 1.31
+   },
+   {
+    "text": "at",
+    "start": 1.31,
+    "end": 1.43
+   },
+   {
+    "text": "a",
+    "start": 1.43,
+    "end": 1.53
+   },
+   {
+    "text": "minimalistic",
+    "start": 1.53,
+    "end": 2.07
+   },
+   {
+    "text": "sauna,",
+    "start": 2.07,
+    "end": 2.39
+   },
+   {
+    "text": "you",
+    "start": 2.67,
+    "end": 2.89
+   },
+   {
+    "text": "see",
+    "start": 2.89,
+    "end": 3.17
+   },
+   {
+    "text": "wood.",
+    "start": 3.17,
+    "end": 3.91
+   },
+   {
+    "text": "You",
+    "start": 4.25,
+    "end": 4.29
+   },
+   {
+    "text": "see",
+    "start": 4.29,
+    "end": 4.45
+   },
+   {
+    "text": "benches,",
+    "start": 4.45,
+    "end": 5.01
+   },
+   {
+    "text": "LEDs",
+    "start": 5.21,
+    "end": 5.53
+   },
+   {
+    "text": "and",
+    "start": 5.53,
+    "end": 6.33
+   },
+   {
+    "text": "the",
+    "start": 6.33,
+    "end": 6.45
+   },
+   {
+    "text": "heater.",
+    "start": 6.45,
+    "end": 6.67
+   },
+   {
+    "text": "But",
+    "start": 7.25,
+    "end": 7.53
+   },
+   {
+    "text": "it's",
+    "start": 7.53,
+    "end": 8.07
+   },
+   {
+    "text": "all",
+    "start": 8.07,
+    "end": 8.25
+   },
+   {
+    "text": "the",
+    "start": 8.25,
+    "end": 8.39
+   },
+   {
+    "text": "small",
+    "start": 8.39,
+    "end": 8.57
+   },
+   {
+    "text": "details",
+    "start": 8.57,
+    "end": 8.97
+   },
+   {
+    "text": "that",
+    "start": 8.97,
+    "end": 9.35
+   },
+   {
+    "text": "really",
+    "start": 9.35,
+    "end": 9.65
+   },
+   {
+    "text": "matter.",
+    "start": 9.65,
+    "end": 9.99
+   }
+  ]
+ },
+ {
+  "id": "c",
+  "src": "media/t_23.mp4",
+  "duration": 10.0,
+  "words": [
+   {
+    "text": "How",
+    "start": 0.19,
+    "end": 0.65
+   },
+   {
+    "text": "clean",
+    "start": 0.65,
+    "end": 0.97
+   },
+   {
+    "text": "and",
+    "start": 0.97,
+    "end": 1.15
+   },
+   {
+    "text": "seamless",
+    "start": 1.15,
+    "end": 1.51
+   },
+   {
+    "text": "the",
+    "start": 1.51,
+    "end": 1.75
+   },
+   {
+    "text": "joints",
+    "start": 1.75,
+    "end": 2.03
+   },
+   {
+    "text": "are,",
+    "start": 2.03,
+    "end": 2.35
+   },
+   {
+    "text": "how",
+    "start": 2.53,
+    "end": 2.67
+   },
+   {
+    "text": "the",
+    "start": 2.67,
+    "end": 2.83
+   },
+   {
+    "text": "lining",
+    "start": 2.83,
+    "end": 3.05
+   },
+   {
+    "text": "is",
+    "start": 3.05,
+    "end": 3.25
+   },
+   {
+    "text": "positioned",
+    "start": 3.25,
+    "end": 3.65
+   },
+   {
+    "text": "and",
+    "start": 3.65,
+    "end": 3.97
+   },
+   {
+    "text": "how",
+    "start": 3.97,
+    "end": 4.13
+   },
+   {
+    "text": "different",
+    "start": 4.13,
+    "end": 4.43
+   },
+   {
+    "text": "materials",
+    "start": 4.43,
+    "end": 4.89
+   },
+   {
+    "text": "work",
+    "start": 4.89,
+    "end": 5.15
+   },
+   {
+    "text": "together.",
+    "start": 5.15,
+    "end": 5.53
+   },
+   {
+    "text": "All",
+    "start": 6.07,
+    "end": 6.29
+   },
+   {
+    "text": "these",
+    "start": 6.29,
+    "end": 6.49
+   },
+   {
+    "text": "details",
+    "start": 6.49,
+    "end": 7.03
+   },
+   {
+    "text": "shape",
+    "start": 7.03,
+    "end": 7.71
+   },
+   {
+    "text": "the",
+    "start": 7.71,
+    "end": 7.99
+   },
+   {
+    "text": "way",
+    "start": 7.99,
+    "end": 8.19
+   },
+   {
+    "text": "the",
+    "start": 8.19,
+    "end": 8.57
+   },
+   {
+    "text": "interior",
+    "start": 8.57,
+    "end": 8.85
+   },
+   {
+    "text": "looks",
+    "start": 8.85,
+    "end": 9.23
+   },
+   {
+    "text": "and",
+    "start": 9.23,
+    "end": 9.63
+   },
+   {
+    "text": "feels.",
+    "start": 9.63,
+    "end": 9.91
+   }
+  ]
+ },
+ {
+  "id": "d",
+  "src": "media/t_24.mp4",
+  "duration": 12.4,
+  "words": [
+   {
+    "text": "For",
+    "start": 0.25,
+    "end": 0.71
+   },
+   {
+    "text": "me,",
+    "start": 0.71,
+    "end": 0.89
+   },
+   {
+    "text": "good",
+    "start": 1.15,
+    "end": 1.29
+   },
+   {
+    "text": "minimalism",
+    "start": 1.29,
+    "end": 1.89
+   },
+   {
+    "text": "isn't",
+    "start": 1.89,
+    "end": 2.35
+   },
+   {
+    "text": "about",
+    "start": 2.35,
+    "end": 2.61
+   },
+   {
+    "text": "removing",
+    "start": 2.61,
+    "end": 3.17
+   },
+   {
+    "text": "what's",
+    "start": 3.17,
+    "end": 3.53
+   },
+   {
+    "text": "unnecessary.",
+    "start": 3.53,
+    "end": 4.01
+   },
+   {
+    "text": "It's",
+    "start": 4.55,
+    "end": 4.71
+   },
+   {
+    "text": "about",
+    "start": 4.71,
+    "end": 4.93
+   },
+   {
+    "text": "making",
+    "start": 4.93,
+    "end": 5.27
+   },
+   {
+    "text": "sure",
+    "start": 5.27,
+    "end": 5.65
+   },
+   {
+    "text": "every",
+    "start": 5.65,
+    "end": 6.13
+   },
+   {
+    "text": "single",
+    "start": 6.13,
+    "end": 6.41
+   },
+   {
+    "text": "detail",
+    "start": 6.41,
+    "end": 6.75
+   },
+   {
+    "text": "that",
+    "start": 6.75,
+    "end": 6.93
+   },
+   {
+    "text": "remains",
+    "start": 6.93,
+    "end": 7.31
+   },
+   {
+    "text": "is",
+    "start": 7.31,
+    "end": 7.97
+   },
+   {
+    "text": "exactly",
+    "start": 7.97,
+    "end": 8.39
+   },
+   {
+    "text": "where",
+    "start": 8.39,
+    "end": 8.63
+   },
+   {
+    "text": "it",
+    "start": 8.63,
+    "end": 8.73
+   },
+   {
+    "text": "belongs.",
+    "start": 8.73,
+    "end": 8.95
+   },
+   {
+    "text": "And",
+    "start": 9.41,
+    "end": 9.55
+   },
+   {
+    "text": "that's",
+    "start": 9.55,
+    "end": 9.75
+   },
+   {
+    "text": "what",
+    "start": 9.75,
+    "end": 9.99
+   },
+   {
+    "text": "we",
+    "start": 9.99,
+    "end": 10.51
+   },
+   {
+    "text": "here",
+    "start": 10.51,
+    "end": 10.71
+   },
+   {
+    "text": "at",
+    "start": 10.71,
+    "end": 10.85
+   },
+   {
+    "text": "PODERA",
+    "start": 10.85,
+    "end": 11.25
+   },
+   {
+    "text": "strive",
+    "start": 11.25,
+    "end": 11.61
+   },
+   {
+    "text": "to",
+    "start": 11.61,
+    "end": 11.85
+   },
+   {
+    "text": "achieve.",
+    "start": 11.85,
+    "end": 12.13
+   }
+  ]
+ }
+]
