@@ -1,6 +1,6 @@
 // Talking-head reel T2 "The hardest part is making it simple" (files 21–24), editorial style.
 // Full-bleed B-roll inserts on the things he names, masked type reveals, thin gold rules, lower-third titles.
-// No orbiting/flipping cards, no PIP bubbles, no pill polls (owner rules). Music ~20 dB under the voice.
+// No orbiting/flipping cards, no PIP bubbles, no pill polls (owner rules). No background music.
 import React from 'react';
 import {AbsoluteFill, Easing, interpolate, OffthreadVideo, Sequence, staticFile, useCurrentFrame} from 'remotion';
 import {colors, fonts} from './brand';
@@ -8,7 +8,7 @@ import {Captions, Word} from './Captions';
 import {Grain} from './fx';
 import {LogoOutro} from './LogoOutro';
 import {Vignette} from './motion';
-import {f, FPS, Music, Sfx} from './timeline';
+import {f, FPS, Sfx} from './timeline';
 import segsJson from './detail-words.json';
 
 type Seg = {id: string; src: string; duration: number; words: Word[]};
@@ -254,8 +254,7 @@ export const DetailsTalk: React.FC = () => (
     </Sequence>
     <Grain opacity={0.04} />
 
-    {/* Music well under the voice; soft swish only where the inserts start */}
-    <Music src="music/n3_going_home.wav" volume={0.05} />
+    {/* No music (owner): voice only, soft swish where the inserts start */}
     <Sfx name="lib/whoosh/gentle_swish" at={11.8} volume={0.2} />
     <Sfx name="lib/whoosh/gentle_swish" at={20.2} volume={0.2} />
     <Sfx name="lib/whoosh/gentle_swish" at={38.2} volume={0.18} />

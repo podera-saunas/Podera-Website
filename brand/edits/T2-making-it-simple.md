@@ -2,7 +2,7 @@
 
 **Sources (Drive):** 21–24.MOV (4K, Yasha, at sauna A and inside) · **Code:** `video/src/shorts/DetailsTalk.tsx` (composition `T2-MakingItSimple`), words in `detail-words.json`.
 **Order:** 21 → 22 → 23 → 24. Clip 24 starts at 6.05 s: the first take ("For me, this is a bit…"), the pause and a hand in frame are cut.
-**Framing:** 21 and 24 are wide (full body far away) → punched in at the cut from 4K (no quality loss). **Grade:** PODERA warm LUT. **Music:** Going Home (HoliznaCC0, CC0) ≈ 20 dB under the voice, mix −14 LUFS.
+**Framing:** 21 and 24 are wide (full body far away) → punched in at the cut from 4K (no quality loss). **Grade:** PODERA warm LUT. **Music:** none (owner: voice only), mix −14 LUFS.
 
 | Time | Speech | Graphics |
 |---|---|---|
