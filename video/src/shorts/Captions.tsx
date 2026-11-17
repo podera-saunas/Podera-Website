@@ -11,6 +11,7 @@ const KEYWORDS = new Set(
     'running', 'everything', 'bills', 'workers', 'trailer', 'custom', 'wheels', 'rotate', 'lift',
     'easily', 'sleepless', 'nights', 'finally', 'months', 'standing', 'fully', 'own', 'soon',
     'difficult', 'simple', 'odd', 'minimalistic', 'details', 'matter', 'seamless', 'podera', 'belongs',
+    'week', 'decline', 'why', 'finished', 'four', 'weeks', 'proud', 'unrealistic',
   ],
 );
 

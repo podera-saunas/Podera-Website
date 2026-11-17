@@ -1,0 +1,762 @@
+[
+ {
+  "id": "a",
+  "src": "media/u_2012.mp4",
+  "duration": 7.05,
+  "words": [
+   {
+    "text": "If",
+    "start": 0.14,
+    "end": 0.66
+   },
+   {
+    "text": "I",
+    "start": 0.66,
+    "end": 0.84
+   },
+   {
+    "text": "was",
+    "start": 0.84,
+    "end": 0.96
+   },
+   {
+    "text": "asked",
+    "start": 0.96,
+    "end": 1.1
+   },
+   {
+    "text": "to",
+    "start": 1.1,
+    "end": 1.3
+   },
+   {
+    "text": "produce",
+    "start": 1.3,
+    "end": 1.58
+   },
+   {
+    "text": "a",
+    "start": 1.58,
+    "end": 1.74
+   },
+   {
+    "text": "sauna",
+    "start": 1.74,
+    "end": 2.16
+   },
+   {
+    "text": "within",
+    "start": 2.16,
+    "end": 2.46
+   },
+   {
+    "text": "a",
+    "start": 2.46,
+    "end": 2.64
+   },
+   {
+    "text": "week's",
+    "start": 2.64,
+    "end": 2.92
+   },
+   {
+    "text": "time,",
+    "start": 2.92,
+    "end": 3.2
+   },
+   {
+    "text": "I",
+    "start": 3.52,
+    "end": 3.6
+   },
+   {
+    "text": "would",
+    "start": 3.6,
+    "end": 3.78
+   },
+   {
+    "text": "most",
+    "start": 3.78,
+    "end": 4.04
+   },
+   {
+    "text": "definitely",
+    "start": 4.04,
+    "end": 4.74
+   },
+   {
+    "text": "decline",
+    "start": 4.74,
+    "end": 5.56
+   },
+   {
+    "text": "the",
+    "start": 5.56,
+    "end": 5.78
+   },
+   {
+    "text": "offer.",
+    "start": 5.78,
+    "end": 6.02
+   },
+   {
+    "text": "And",
+    "start": 6.42,
+    "end": 6.44
+   },
+   {
+    "text": "here's",
+    "start": 6.44,
+    "end": 6.7
+   },
+   {
+    "text": "why.",
+    "start": 6.7,
+    "end": 6.86
+   }
+  ]
+ },
+ {
+  "id": "b",
+  "src": "media/u_2013.mp4",
+  "duration": 19.2,
+  "words": [
+   {
+    "text": "When",
+    "start": 0.11,
+    "end": 0.61
+   },
+   {
+    "text": "you're",
+    "start": 0.61,
+    "end": 0.77
+   },
+   {
+    "text": "already",
+    "start": 0.77,
+    "end": 1.09
+   },
+   {
+    "text": "seeing",
+    "start": 1.09,
+    "end": 1.43
+   },
+   {
+    "text": "a",
+    "start": 1.43,
+    "end": 1.67
+   },
+   {
+    "text": "completely",
+    "start": 1.67,
+    "end": 1.95
+   },
+   {
+    "text": "finished",
+    "start": 1.95,
+    "end": 2.43
+   },
+   {
+    "text": "sauna,",
+    "start": 2.43,
+    "end": 2.97
+   },
+   {
+    "text": "everything",
+    "start": 3.23,
+    "end": 3.47
+   },
+   {
+    "text": "seems",
+    "start": 3.47,
+    "end": 4.11
+   },
+   {
+    "text": "simple,",
+    "start": 4.11,
+    "end": 4.93
+   },
+   {
+    "text": "minimalistic.",
+    "start": 5.51,
+    "end": 6.21
+   },
+   {
+    "text": "But,",
+    "start": 6.65,
+    "end": 6.85
+   },
+   {
+    "text": "there's",
+    "start": 7.23,
+    "end": 7.77
+   },
+   {
+    "text": "a",
+    "start": 7.77,
+    "end": 7.87
+   },
+   {
+    "text": "whole",
+    "start": 7.87,
+    "end": 8.11
+   },
+   {
+    "text": "behind",
+    "start": 8.11,
+    "end": 8.47
+   },
+   {
+    "text": "the",
+    "start": 8.47,
+    "end": 8.69
+   },
+   {
+    "text": "scenes",
+    "start": 8.69,
+    "end": 8.89
+   },
+   {
+    "text": "production",
+    "start": 8.89,
+    "end": 9.29
+   },
+   {
+    "text": "process",
+    "start": 9.29,
+    "end": 9.81
+   },
+   {
+    "text": "that",
+    "start": 9.81,
+    "end": 10.25
+   },
+   {
+    "text": "none",
+    "start": 10.25,
+    "end": 10.69
+   },
+   {
+    "text": "of",
+    "start": 10.69,
+    "end": 10.81
+   },
+   {
+    "text": "you",
+    "start": 10.81,
+    "end": 10.91
+   },
+   {
+    "text": "get",
+    "start": 10.91,
+    "end": 11.07
+   },
+   {
+    "text": "to",
+    "start": 11.07,
+    "end": 11.23
+   },
+   {
+    "text": "see.",
+    "start": 11.23,
+    "end": 11.47
+   },
+   {
+    "text": "That's",
+    "start": 12.15,
+    "end": 12.71
+   },
+   {
+    "text": "getting",
+    "start": 12.71,
+    "end": 13.19
+   },
+   {
+    "text": "ready",
+    "start": 13.19,
+    "end": 13.53
+   },
+   {
+    "text": "with",
+    "start": 13.53,
+    "end": 13.79
+   },
+   {
+    "text": "the",
+    "start": 13.79,
+    "end": 13.91
+   },
+   {
+    "text": "structure.",
+    "start": 13.91,
+    "end": 14.27
+   },
+   {
+    "text": "Doing",
+    "start": 15.07,
+    "end": 15.19
+   },
+   {
+    "text": "the",
+    "start": 15.19,
+    "end": 15.35
+   },
+   {
+    "text": "insulation,",
+    "start": 15.35,
+    "end": 15.89
+   },
+   {
+    "text": "preparing",
+    "start": 16.39,
+    "end": 16.75
+   },
+   {
+    "text": "the",
+    "start": 16.75,
+    "end": 16.97
+   },
+   {
+    "text": "heaters,",
+    "start": 16.97,
+    "end": 17.45
+   },
+   {
+    "text": "and",
+    "start": 17.91,
+    "end": 17.95
+   },
+   {
+    "text": "then",
+    "start": 17.95,
+    "end": 18.13
+   },
+   {
+    "text": "testing",
+    "start": 18.13,
+    "end": 18.65
+   },
+   {
+    "text": "everything.",
+    "start": 18.65,
+    "end": 18.95
+   }
+  ]
+ },
+ {
+  "id": "c",
+  "src": "media/u_2015.mp4",
+  "duration": 5.7,
+  "words": [
+   {
+    "text": "To",
+    "start": 0.16,
+    "end": 0.6
+   },
+   {
+    "text": "me,",
+    "start": 0.6,
+    "end": 0.82
+   },
+   {
+    "text": "it's",
+    "start": 1.2,
+    "end": 1.3
+   },
+   {
+    "text": "incredibly",
+    "start": 1.3,
+    "end": 1.66
+   },
+   {
+    "text": "important",
+    "start": 1.66,
+    "end": 2.08
+   },
+   {
+    "text": "that",
+    "start": 2.08,
+    "end": 2.26
+   },
+   {
+    "text": "every",
+    "start": 2.26,
+    "end": 2.52
+   },
+   {
+    "text": "step",
+    "start": 2.52,
+    "end": 2.78
+   },
+   {
+    "text": "is",
+    "start": 2.78,
+    "end": 3.04
+   },
+   {
+    "text": "done",
+    "start": 3.04,
+    "end": 3.3
+   },
+   {
+    "text": "correctly",
+    "start": 3.3,
+    "end": 3.86
+   },
+   {
+    "text": "and",
+    "start": 3.86,
+    "end": 4.92
+   },
+   {
+    "text": "carefully.",
+    "start": 4.92,
+    "end": 5.5
+   }
+  ]
+ },
+ {
+  "id": "d",
+  "src": "media/u_2016.mp4",
+  "duration": 6.8,
+  "words": [
+   {
+    "text": "This",
+    "start": 0.28,
+    "end": 0.3
+   },
+   {
+    "text": "is",
+    "start": 0.3,
+    "end": 0.4
+   },
+   {
+    "text": "because",
+    "start": 0.4,
+    "end": 0.7
+   },
+   {
+    "text": "a",
+    "start": 0.7,
+    "end": 1.14
+   },
+   {
+    "text": "sauna",
+    "start": 1.14,
+    "end": 1.42
+   },
+   {
+    "text": "in",
+    "start": 1.42,
+    "end": 1.6
+   },
+   {
+    "text": "a",
+    "start": 1.6,
+    "end": 1.66
+   },
+   {
+    "text": "photo",
+    "start": 1.66,
+    "end": 1.9
+   },
+   {
+    "text": "is",
+    "start": 1.9,
+    "end": 2.14
+   },
+   {
+    "text": "one",
+    "start": 2.14,
+    "end": 2.32
+   },
+   {
+    "text": "thing,",
+    "start": 2.32,
+    "end": 2.6
+   },
+   {
+    "text": "how",
+    "start": 2.76,
+    "end": 3.1
+   },
+   {
+    "text": "a",
+    "start": 3.1,
+    "end": 3.26
+   },
+   {
+    "text": "sauna",
+    "start": 3.26,
+    "end": 3.44
+   },
+   {
+    "text": "works",
+    "start": 3.44,
+    "end": 3.8
+   },
+   {
+    "text": "and",
+    "start": 3.8,
+    "end": 4.4
+   },
+   {
+    "text": "looks",
+    "start": 4.4,
+    "end": 4.64
+   },
+   {
+    "text": "in",
+    "start": 4.64,
+    "end": 4.78
+   },
+   {
+    "text": "real",
+    "start": 4.78,
+    "end": 4.9
+   },
+   {
+    "text": "time",
+    "start": 4.9,
+    "end": 5.14
+   },
+   {
+    "text": "is",
+    "start": 5.14,
+    "end": 5.36
+   },
+   {
+    "text": "something",
+    "start": 5.36,
+    "end": 5.58
+   },
+   {
+    "text": "completely",
+    "start": 5.58,
+    "end": 6.16
+   },
+   {
+    "text": "different.",
+    "start": 6.16,
+    "end": 6.64
+   }
+  ]
+ },
+ {
+  "id": "e",
+  "src": "media/u_2018.mp4",
+  "duration": 13.45,
+  "words": [
+   {
+    "text": "That's",
+    "start": 0.23,
+    "end": 0.71
+   },
+   {
+    "text": "why",
+    "start": 0.71,
+    "end": 0.81
+   },
+   {
+    "text": "production",
+    "start": 0.81,
+    "end": 1.21
+   },
+   {
+    "text": "at",
+    "start": 1.21,
+    "end": 1.47
+   },
+   {
+    "text": "PODERA",
+    "start": 1.47,
+    "end": 1.89
+   },
+   {
+    "text": "lasts",
+    "start": 1.89,
+    "end": 2.09
+   },
+   {
+    "text": "for",
+    "start": 2.09,
+    "end": 2.31
+   },
+   {
+    "text": "four",
+    "start": 2.31,
+    "end": 2.57
+   },
+   {
+    "text": "weeks.",
+    "start": 2.57,
+    "end": 2.81
+   },
+   {
+    "text": "We",
+    "start": 3.17,
+    "end": 3.25
+   },
+   {
+    "text": "do",
+    "start": 3.25,
+    "end": 3.35
+   },
+   {
+    "text": "not",
+    "start": 3.35,
+    "end": 3.51
+   },
+   {
+    "text": "want",
+    "start": 3.51,
+    "end": 3.65
+   },
+   {
+    "text": "to",
+    "start": 3.65,
+    "end": 3.73
+   },
+   {
+    "text": "promise",
+    "start": 3.73,
+    "end": 4.05
+   },
+   {
+    "text": "unrealistic",
+    "start": 4.05,
+    "end": 4.63
+   },
+   {
+    "text": "timelines",
+    "start": 4.63,
+    "end": 5.33
+   },
+   {
+    "text": "just",
+    "start": 5.33,
+    "end": 6.19
+   },
+   {
+    "text": "to",
+    "start": 6.19,
+    "end": 6.39
+   },
+   {
+    "text": "secure",
+    "start": 6.39,
+    "end": 6.63
+   },
+   {
+    "text": "an",
+    "start": 6.63,
+    "end": 6.77
+   },
+   {
+    "text": "order",
+    "start": 6.77,
+    "end": 6.85
+   },
+   {
+    "text": "faster.",
+    "start": 6.85,
+    "end": 7.31
+   },
+   {
+    "text": "To",
+    "start": 8.11,
+    "end": 8.21
+   },
+   {
+    "text": "us,",
+    "start": 8.21,
+    "end": 8.43
+   },
+   {
+    "text": "it's",
+    "start": 8.71,
+    "end": 8.91
+   },
+   {
+    "text": "much",
+    "start": 8.91,
+    "end": 9.13
+   },
+   {
+    "text": "more",
+    "start": 9.13,
+    "end": 9.31
+   },
+   {
+    "text": "important",
+    "start": 9.31,
+    "end": 9.73
+   },
+   {
+    "text": "that",
+    "start": 9.73,
+    "end": 10.15
+   },
+   {
+    "text": "we",
+    "start": 10.15,
+    "end": 10.29
+   },
+   {
+    "text": "are",
+    "start": 10.29,
+    "end": 10.37
+   },
+   {
+    "text": "proud",
+    "start": 10.37,
+    "end": 10.69
+   },
+   {
+    "text": "of",
+    "start": 10.69,
+    "end": 10.93
+   },
+   {
+    "text": "the",
+    "start": 10.93,
+    "end": 11.15
+   },
+   {
+    "text": "product",
+    "start": 11.15,
+    "end": 11.39
+   },
+   {
+    "text": "that",
+    "start": 11.39,
+    "end": 11.57
+   },
+   {
+    "text": "we",
+    "start": 11.57,
+    "end": 11.69
+   },
+   {
+    "text": "deliver",
+    "start": 11.69,
+    "end": 12.07
+   },
+   {
+    "text": "straight",
+    "start": 12.07,
+    "end": 12.55
+   },
+   {
+    "text": "to",
+    "start": 12.55,
+    "end": 12.83
+   },
+   {
+    "text": "you.",
+    "start": 12.83,
+    "end": 12.99
+   }
+  ]
+ }
+]
