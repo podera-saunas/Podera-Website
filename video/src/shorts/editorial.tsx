@@ -1,11 +1,11 @@
 // Minimal editorial kit for product/B-roll videos (N3 v3, N4 v4):
 // graded shots with a barely-there push-in, one masked line per shot, soft floor gradient.
 import React from 'react';
-import {AbsoluteFill, Easing, interpolate, OffthreadVideo, Sequence, staticFile, useCurrentFrame} from 'remotion';
+import {AbsoluteFill, Easing, Img, interpolate, OffthreadVideo, Sequence, staticFile, useCurrentFrame} from 'remotion';
 import {colors, fonts} from './brand';
 import {f, FPS} from './timeline';
 
-export type EdShot = {src: string; dur: number; rate?: number; volume?: number};
+export type EdShot = {src: string; dur: number; rate?: number; volume?: number; still?: boolean};
 
 export const shotsLength = (shots: EdShot[]) => shots.reduce((a, s) => a + s.dur, 0);
 
@@ -29,6 +29,9 @@ export const Footage: React.FC<{shots: EdShot[]}> = ({shots}) => {
         return (
           <Sequence key={`${s.src}-${i}`} from={f(from)} durationInFrames={f(s.dur)} name={`Shot ${i + 1}`}>
             <Push>
+              {s.still ? (
+                <Img src={staticFile(s.src)} style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+              ) : (
               <OffthreadVideo
                 src={staticFile(s.src)}
                 muted={!s.volume}
@@ -36,6 +39,7 @@ export const Footage: React.FC<{shots: EdShot[]}> = ({shots}) => {
                 playbackRate={s.rate ?? 1}
                 style={{width: '100%', height: '100%', objectFit: 'cover'}}
               />
+              )}
             </Push>
           </Sequence>
         );

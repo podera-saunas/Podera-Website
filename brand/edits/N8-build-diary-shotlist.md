@@ -32,3 +32,22 @@
 - Каждый день идёт 2–3 с в одном ракурсе, счётчик «DAY n» стоит на одном месте, как счётчик в N7.
 - Текст: DAY 1 OF [СРОК] · BUILT IN PATTAYA · [ИМЯ] · [N] years · Tested before delivery · DAY [СРОК] · Comment VISIT.
 - Длительность 30 с, финал: логотип + Comment VISIT.
+
+---
+
+## Смонтировано пока: честная версия «Built in our workshop» (`N8-BuiltInOurWorkshop`, 27 с)
+Ежедневной съёмки нет, поэтому это не дневник «Day 1 of N»: нет счётчика дней, имени мастера и грузовика. Только реальные кадры по порядку сборки. Звука исходников нет, фоном спокойный лоу-фай «Infinite Echoes» (HoliznaCC0, CC0), громкость −16 LUFS.
+
+| Время | Кадр | Текст |
+|---|---|---|
+| 0–3 | IMG_0006 распил (0.7×) | BEHIND EVERY PODERA · *It starts here.* |
+| 3–6.4 | IMG_9412 цех | *Built in our workshop.* |
+| 6.4–9.2 | IMG_9406 опилки на ладони | *Real wood.* |
+| 9.2–11.8 | 4.mov 27.6 с — стальной каркас снизу (0.65×) | *A steel frame.* |
+| 11.8–14.8 | IMG_8841 печь SAWO | SAWO · *The heater goes in.* |
+| 14.8–17.8 | IMG_1882 рука на пульте | *Tested before it leaves.* |
+| 17.8–21 | Фото IMG_8845, готовая сауна, вечер | ON YOUR PLOT · *Installed in 1 day.* |
+| 21–24.2 | Фото IMG_8854, светящаяся парная | SEE ONE FINISHED · **Comment VISIT** |
+| 24.2–26.8 | — | PODERA · слоган · Comment VISIT |
+
+Когда появится ежедневная съёмка по плану выше, смонтирую настоящий дневник.

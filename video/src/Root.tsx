@@ -9,6 +9,7 @@ import {RitualEditorial, ritualDuration} from './shorts/RitualEditorial';
 import {FiveQuestions, fiveQuestionsDuration} from './shorts/FiveQuestions';
 import {DetailsTalk, detailsDuration} from './shorts/DetailsTalk';
 import {WeekTalk, weekDuration} from './shorts/WeekTalk';
+import {WorkshopEditorial, workshopDuration} from './shorts/WorkshopEditorial';
 import {
   InsideTheWalls,
   n2Duration,
@@ -23,6 +24,7 @@ const vertical = {fps: 30, width: 1080, height: 1920} as const;
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="N8-BuiltInOurWorkshop" component={WorkshopEditorial} durationInFrames={workshopDuration} {...vertical} />
       <Composition id="T3-WhyNotOneWeek" component={WeekTalk} durationInFrames={weekDuration} {...vertical} />
       <Composition id="T2-MakingItSimple" component={DetailsTalk} durationInFrames={detailsDuration} {...vertical} />
       <Composition id="N7-FiveQuestions" component={FiveQuestions} durationInFrames={fiveQuestionsDuration} {...vertical} />
