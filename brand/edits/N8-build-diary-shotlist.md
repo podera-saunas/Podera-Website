@@ -41,9 +41,9 @@
 | Время | Кадр | Текст |
 |---|---|---|
 | 0–3 | IMG_0006 распил (0.7×) | BEHIND EVERY PODERA · *It starts here.* |
-| 3–6.4 | IMG_9412 цех | *Built in our workshop.* |
-| 6.4–9.2 | IMG_9406 опилки на ладони | *Real wood.* |
-| 9.2–11.8 | 4.mov 27.6 с — стальной каркас снизу (0.65×) | *A steel frame.* |
+| 3–6.4 | IMG_8823 деревянный поручень, макро | *Real wood.* |
+| 6.4–9.2 | IMG_1987 карниз снизу, день | *Built in our workshop.* |
+| 9.2–11.8 | IMG_1905 настил веранды и перила | *Every board fitted.* |
 | 11.8–14.8 | IMG_8841 печь SAWO | SAWO · *The heater goes in.* |
 | 14.8–17.8 | IMG_1882 рука на пульте | *Tested before it leaves.* |
 | 17.8–21 | Фото IMG_8845, готовая сауна, вечер | ON YOUR PLOT · *Installed in 1 day.* |
