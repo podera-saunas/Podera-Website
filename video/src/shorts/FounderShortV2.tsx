@@ -271,7 +271,6 @@ export const FounderShortV2: React.FC = () => {
         <Stage top={1060}>
           <A.Eyebrow text="I'm the one" at={27.5} color={colors.gold} />
           <A.Row text="Running it" at={28.6} />
-          <A.Row text="Controlling everything" at={29.52} />
           <A.Row text="Paying the bills" at={31.9} />
           <A.Row text="Paying the workers" at={33.58} />
         </Stage>

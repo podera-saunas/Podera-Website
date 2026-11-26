@@ -26,3 +26,7 @@
 
 Субтитры идут весь ролик (Inter Bold, ключевые слова золотом). Убраны только там, где графика повторяет речь.
 Временные замены те же, что в v1: Allura вместо Tempting, текстовый логотип, без музыки.
+
+## Edit (26.11): "I'm the one controlling everything" removed
+- Graphic row "Controlling everything" deleted from the "I'm the one" checklist (`FounderShortV2.tsx`).
+- The spoken phrase (29.17–30.43 s of the render) is cut out of the final file with a 30 ms audio fade on each side; the video is now 60.3 s. The cut is applied after render (ffmpeg trim + concat), so re-rendering the composition alone brings the phrase back: repeat the cut.
